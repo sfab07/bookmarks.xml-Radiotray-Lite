@@ -1,1 +1,1 @@
-# bookmarks.xml axés sur les radios et webradios françaises. Radio nationales avec les déclinaisons, plus Radio France et toute ses locales France Bleu complétés de webradios : Puls, HotMix, Allzic, M2... et quelques radios de radionomy.
+# bookmarks.xml axés sur les radios et webradios françaises. Radio nationales avec les déclinaisons, plus toute les locales France Bleu complétés de webradios : Puls, HotMix, Allzic, M2... et quelques radios de radionomy.
