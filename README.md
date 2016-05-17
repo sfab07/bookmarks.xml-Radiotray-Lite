@@ -1,4 +1,4 @@
-# bookmarks.xml axés sur les radios et webradios françaises. Déclinaisons des radios nationales, agréméntés de nombreuses webradios plus toute les locales France Bleu. Ajout de l'ensemble des webradios Nrj (bookmarks-nrj.xml)
+# bookmarks.xml axés sur les radios et webradios françaises. Déclinaisons des radios nationales, agréméntées de nombreuses webradios plus toute les locales France Bleu. Ajout de l'ensemble des webradios Nrj (bookmarks-nrj.xml)
 
 <a href="http://zupimages.net/up/16/20/jl7s.png"><img  src="http://zupimages.net/up/16/17/3h5c.png" width="150" />
 <a href="http://zupimages.net/up/16/17/msll.png"><img  src="http://zupimages.net/up/16/17/msll.png" width="180" />
