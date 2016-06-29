@@ -1,4 +1,4 @@
-yad  --title="Radiotray selector" Choose --center --on-top --button Best:1 --button NRJ:2 --button Perso:3 --button 80s:4 --button Rap:5 --button Rock:6 --button Club:7 --button Hit:8 --button Latine+World:9 --button Artiste:10 --button Locales:11 
+yad  --title="Radiotray selector" Choose --center --on-top --button Best:1 --button NRJ:2 --button Perso:3 --button 80s:4 --button Rap:5 --button Rock:6 --button Club:7 --button Hit:8 --button Latine+World:9 --button Artiste:10
 
 choice=$?
 case $choice in
@@ -62,13 +62,6 @@ cp /home/$USER/.local/share/radiotray/bookmarks\ selector/bookmarks-artiste.xml 
                 xclip -i -selection clipboard
         xclip -o selection clipboard
         ;;
-        11) 
-        xclip -o -selection clipboard | 
-cp /home/$USER/.local/share/radiotray/bookmarks\ selector/bookmarks-local.xml /home/$USER/.local/share/radiotray/bookmarks.xml
-                xclip -i -selection clipboard
-        xclip -o selection clipboard
-        ;;
 
-esac
 esac
 
