@@ -1,4 +1,4 @@
-# bookmarks.xml axés sur les radios et webradios françaises. Déclinaisons des radios nationales, agréméntées de nombreuses webradios plus l'intégralité des locales France Bleu et de NRJ. Bookmarks locales (en construction).
+# bookmarks.xml axés sur les radios et webradios françaises. Déclinaisons des radios nationales, agréméntées de nombreuses webradios plus l'intégralité des locales France Bleu et de NRJ.
 
 Pour utiliser radiotray selector vous devez installer yad.sh. Ensuite extraire tous les fichiers dans le dossier : /home/$USER/.local/share/radiotray/bookmarks\ selector/. Vous n'avez plus qu'à créer le raccourci de radiotray selector sur votre bureau. 
 
