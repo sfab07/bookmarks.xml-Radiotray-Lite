@@ -18,8 +18,6 @@
 		<bookmark name="Chérie 80's" url="http://adwzg3.scdn.arkena.com/8600/nrj_168310.mp3"/>
 		<bookmark name="RFM 80's" url="http://rfm-wr4-mp3-128.scdn.arkena.com/rfm.mp3"/>
 		<bookmark name="MFM Culte 80/90" url="http://mfm-wr2.ice.infomaniak.ch/mfm-wr2-128.mp3"/>
-		<bookmark name="Radio Star 80s" url="http://radiostar-80.scdn.arkena.com/rsm-80.mp3"/>
-		<bookmark name="Radio Star Funcky Collector" url="http://radiostar-funky.scdn.arkena.com/rsm-funky.mp3"/>
 		<bookmark name="Vibration 80s" url="http://live-reflector.infomaniak.ch/vibration80s.aac"/>
 		<bookmark name="Scoop 80's" url="http://stream.radioscoop.com/scoop1.mp3"/>
 		<bookmark name="Voltage 80s" url="http://ice12.infomaniak.ch/voltage80s-128.mp3"/>
@@ -35,6 +33,7 @@
 		<bookmark name="Best80France" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180780"/>
 		<bookmark name="best80dance" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=99179556"/>
 		<bookmark name="best80poprock" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=99180228"/>
+		<bookmark name="Forum 80s" url="http://live-broadcaster.infomaniak.ch/forum80s.mp3"/>
 	</group>
 
 </bookmarks>
