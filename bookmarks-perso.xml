@@ -4,28 +4,19 @@
 		<bookmark name="Magic Radio" url="http://icecast.pulsradio.com/magicradioHD.mp3.m3u"/>
 		<bookmark name="Frequence 3" url="http://www.frequence3.fr/plugins/winamp192.m3u"/>
 		<bookmark name="Chante France" url="http://stream.chantefrance.com/stream_chante_france.mp3"/>
-		<bookmark name="Rire et chansons" url="http://adwzg3.tdf-cdn.com/8474/nrj_177978.mp3"/>
-		<bookmark name="Nrj france" url="http://mp3lg4.scdn.arkena.com/8432/nrj_205243.mp3"/>
 		<bookmark name="FG" url="http://radiofg.impek.com/fg"/>
-		<bookmark name="Nostalgie" url="http://adwzg3.tdf-cdn.com/8472/nrj_172793.mp3"/>
 		<bookmark name="Chante France 80's" url="http://stream1.chantefrance.com/cf-80.m3u"/>
 		<bookmark name="Chante France emotion" url="http://stream1.chantefrance.com/cf-emotion.m3u"/>
-		<bookmark name="Radio Star 80s" url="http://radiostar-80.scdn.arkena.com/rsm-80.mp3"/>
-		<bookmark name="Radio Star Funcky Collector" url="http://radiostar-funky.scdn.arkena.com/rsm-funky.mp3"/>
-		<bookmark name="Radio Star Rap Marseille" url="http://radiostar-rapmarseille.scdn.arkena.com/rsm-rapmarseille.mp3"/>
 		<bookmark name="Radioteentaal" url="http://www.radioteentaal.com:8000"/>
 		<bookmark name="BFM Business" url="http://bfmbusiness.scdn.arkena.com/bfmbusiness.mp3"/>
 		<bookmark name="Europe 1" url="http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"/>
 
 		<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
- 
+
 		<bookmark name="France Bleu Drôme-Ardèche" url="http://audio.scdn.arkena.com/11357/fbdromeardeche-midfi128.mp3"/>
 		<bookmark name="MTI" url="http://ns3303812.ovh.net:9800/radiomti.m3u"/>
 
-
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
-
-
 
 	<group name="Radionomy">
 		<bookmark name="Radioteentaal" url="http://www.radioteentaal.com:8000"/>
@@ -35,24 +26,9 @@
 		<bookmark name="F2X" url="http://listen.radionomy.com/f2x-radio"/>
 		<bookmark name="Hlove" url="http://streaming.radionomy.com/HloveFR"/>
 		<bookmark name="pinealtunes" url="http://listen.radionomy.com/pinealtunes.m3u"/>
-
 	</group>
 
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
-
-
-	<group name="Rire et Chansons">
-		<bookmark name="Blagues" url="http://adwzg3.tdf-cdn.com/8574/nrj_165638.mp3"/>
-		<bookmark name="Canulars" url="http://adwzg3.tdf-cdn.com/8645/nrj_172621.mp3"/>
-		<bookmark name="Collector" url="http://adwzg3.tdf-cdn.com/8648/nrj_166789.mp3"/>
-		<bookmark name="Gad Elmaleh" url="http://adwzg3.tdf-cdn.com/8751/nrj_175644.mp3"/>
-		<bookmark name="Live" url="http://adwzg3.tdf-cdn.com/8575/nrj_176026.mp3"/>
-		<bookmark name="Nouvelle Génération" url="http://adwzg3.tdf-cdn.com/8573/nrj_177371.mp3"/>
-		<bookmark name="Open du rire" url="http://adwzg5.tdf-cdn.com/10747/nrj_173546.mp3"/>
-		<bookmark name="Semoun" url="http://adwzg3.tdf-cdn.com/8715/nrj_166957.mp3"/>
-		<bookmark name="Sketches" url="http://adwzg3.tdf-cdn.com/8572/nrj_175797.mp3"/>
-		<bookmark name="Stand Up" url="http://adwzg3.tdf-cdn.com/8646/nrj_170283.mp3"/>
-	</group>
 
 </group>
 </bookmarks>
