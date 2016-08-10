@@ -4,22 +4,17 @@
 		<bookmark name="Magic Radio" url="http://icecast.pulsradio.com/magicradioHD.mp3.m3u"/>
 		<bookmark name="Frequence 3" url="http://www.frequence3.fr/plugins/winamp192.m3u"/>
 		<bookmark name="Chante France" url="http://stream.chantefrance.com/stream_chante_france.mp3"/>
-		<bookmark name="Rire et chansons" url="http://adwzg3.tdf-cdn.com/8474/nrj_177978.mp3"/>
-		<bookmark name="Nrj france" url="http://mp3lg4.scdn.arkena.com/8432/nrj_205243.mp3"/>
-		<bookmark name="Nostalgie" url="http://adwzg3.tdf-cdn.com/8472/nrj_172793.mp3"/>
 		<bookmark name="Radioteentaal" url="http://www.radioteentaal.com:8000"/>
 
 		<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 
 	<group name="Radios Nationales">
-		<bookmark name="Chérie FM" url="http://adwzg3.tdf-cdn.com/8473/nrj_178499.mp3"/>
 		<bookmark name="Fun Radio" url="http://streaming.radio.funradio.fr/fun-1-48-192"/>
 		<bookmark name="FG" url="http://radiofg.impek.com/fg"/>
 		<bookmark name="RFM" url="http://mp3lg4.tdf-cdn.com/8376/goo_091150.mp3"/>
     		<bookmark name="Oui Fm" url="http://ouifm.ice.infomaniak.ch/ouifm-high.mp3"/>
 		<bookmark name="RTL2" url="http://streaming.radio.rtl2.fr/rtl2-1-48-192"/>
 		<bookmark name="Sud Radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
-		<bookmark name="Rire et chansons" url="http://adwzg3.tdf-cdn.com/8474/nrj_177978.mp3"/>
 		<bookmark name="Virgin Radio" url="http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3"/>
 		<bookmark name="Skyrock" url="http://skyrock-live-1-aac-64.scdn.arkena.com/sky_122353.mp3"/>
 	</group>
@@ -306,97 +301,6 @@
 		<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
 	</group>
 
-	<group name="NRJ">
-		
-		<bookmark name="NRJ Acoustic" url="http://adwzg3.tdf-cdn.com/8663/nrj_171479.mp3"/>
-		<bookmark name="NRJ At Home" url="http://adwzg3.tdf-cdn.com/8684/nrj_174505.mp3"/>
-		<bookmark name="NRJ At Work" url="http://adwzg3.tdf-cdn.com/8576/nrj_178870.mp3"/>
-		<bookmark name="NRJ Nouveautés" url="http://adwzg3.tdf-cdn.com/8521/nrj_166841.mp3"/>
-		<bookmark name="NRJ First listen" url="http://adwzg3.tdf-cdn.com/8748/nrj_163062.mp3"/>
-		<bookmark name="NRJ Shazam" url="http://adwzg3.tdf-cdn.com/8688/nrj_164414.mp3"/>
-		<bookmark name="NRJ Classic Rap" url="http://adwzg3.tdf-cdn.com/8740/nrj_171026.mp3"/>
-		<bookmark name="NRJ Classic Rock" url="http://adwzg3.tdf-cdn.com/8742/nrj_165273.mp3"/>
-		<bookmark name="NRJ Clubbin" url="http://adwzg3.tdf-cdn.com/8515/nrj_163357.mp3"/>
-		<bookmark name="NRJ Euro Hot 30" url="http://adwzg4.tdf-cdn.com/9032/nrj_144223.mp3"/>
-		<bookmark name="NRJ French Hits" url="http://adwzg3.tdf-cdn.com/8520/nrj_170116.mp3"/>
-		<bookmark name="NRJ Hit of the day" url="http://adwzg3.tdf-cdn.com/8747/nrj_177651.mp3"/>
-		<bookmark name="NRJ Hit of the month" url="http://adwzg4.tdf-cdn.com/8789/nrj_174990.mp3"/>
-		<bookmark name="NRJ Hit of the week" url="http://adwzg4.tdf-cdn.com/8779/nrj_165751.mp3"/>
-		<bookmark name="NRJ Hits" url="http://adwzg3.tdf-cdn.com/8484/nrj_169447.mp3"/>
-		<bookmark name="NRJ Hits Remix" url="http://adwzg3.tdf-cdn.com/8685/nrj_172600.mp3"/>
-		<bookmark name="NRJ Latino" url="http://adwzg3.tdf-cdn.com/8590/nrj_171276.mp3"/>
-		<bookmark name="NRJ Latino Hits" url="http://adwzg4.tdf-cdn.com/9043/nrj_111115.mp3"/>
-	</group>
-
-	<group name="Rire et Chansons">
-		<bookmark name="Blagues" url="http://adwzg3.tdf-cdn.com/8574/nrj_165638.mp3"/>
-		<bookmark name="Canulars" url="http://adwzg3.tdf-cdn.com/8645/nrj_172621.mp3"/>
-		<bookmark name="Collector" url="http://adwzg3.tdf-cdn.com/8648/nrj_166789.mp3"/>
-		<bookmark name="Gad Elmaleh" url="http://adwzg3.tdf-cdn.com/8751/nrj_175644.mp3"/>
-		<bookmark name="Live" url="http://adwzg3.tdf-cdn.com/8575/nrj_176026.mp3"/>
-		<bookmark name="Nouvelle Génération" url="http://adwzg3.tdf-cdn.com/8573/nrj_177371.mp3"/>
-		<bookmark name="Open du rire" url="http://adwzg5.tdf-cdn.com/10747/nrj_173546.mp3"/>
-		<bookmark name="Semoun" url="http://adwzg3.tdf-cdn.com/8715/nrj_166957.mp3"/>
-		<bookmark name="Sketches" url="http://adwzg3.tdf-cdn.com/8572/nrj_175797.mp3"/>
-		<bookmark name="Stand Up" url="http://adwzg3.tdf-cdn.com/8646/nrj_170283.mp3"/>
-	</group>
- 
-	<group name="Nostalgie">
-		<bookmark name="Nostalgie 10 plus grandes légendes" url="http://adwzg3.scdn.arkena.com/8567/nrj_178534.mp3"/>
-		<bookmark name="Nostalgie Best Of 60's" url="http://adwzg3.tdf-cdn.com/8565/nrj_167896.mp3"/>
-		<bookmark name="Nostalgie Best Of 70's" url="http://adwzg3.tdf-cdn.com/8566/nrj_179861.mp3"/>
-		<bookmark name="Nostalgie Best Of 80's" url="http://adwzg3.tdf-cdn.com/8560/nrj_169022.mp3"/>
-		<bookmark name="Nostalgie Blues" url="http://adwzg3.tdf-cdn.com/8636/nrj_171485.mp3"/>
-		<bookmark name="Nostalgie Chansons Françaises" url="http://adwzg3.tdf-cdn.com/8564/nrj_163787.mp3"/>
-		<bookmark name="Nostalgie Ciné Tubes" url="http://adwzg3.tdf-cdn.com/8682/nrj_173806.mp3"/>
-		<bookmark name="Nostalgie Disco" url="http://adwzg3.tdf-cdn.com/8562/nrj_174308.mp3"/>
-		<bookmark name="Nostalgie Fiesta" url="http://adwzg5.tdf-cdn.com/10652/nrj_133740.mp3"/>
-		<bookmark name="Nostalgie Funk" url="http://adwzg3.tdf-cdn.com/8597/nrj_170663.mp3"/>
-		<bookmark name="Nostalgie Italia" url="http://adwzg3.tdf-cdn.com/8681/nrj_166193.mp3"/>
-		<bookmark name="Nostalgie Jazz" url="http://adwzg3.tdf-cdn.com/8637/nrj_167268.mp3"/>
-		<bookmark name="Nostalgie Les chansons de l'été" url="http://adwzg5.tdf-cdn.com/12640/nrj_114742.mp3"/>
-		<bookmark name="Nostalgie Les matins qui chantent" url="http://adwzg5.tdf-cdn.com/10961/nrj_170720.mp3"/>
-		<bookmark name="Nostalgie Les plus grands slows" url="http://adwzg3.tdf-cdn.com/8563/nrj_178223.mp3"/>
-		<bookmark name="Nostalgie Les plus grands tubes français" url="http://adwzg4.scdn.arkena.com/8809/nrj_177476.mp3"/>
-		<bookmark name="Nostalgie Motown" url="http://adwzg3.tdf-cdn.com/8643/nrj_163528.mp3"/>
-		<bookmark name="Nostalgie Poètes" url="http://adwzg3.tdf-cdn.com/8598/nrj_164475.mp3"/>
-		<bookmark name="Nostalgie Rock" url="http://adwzg3.scdn.arkena.com/8561/nrj_171397.mp3"/>
-		<bookmark name="Nostalgie Saturday Night" url="http://adwzg5.tdf-cdn.com/10903/nrj_125034.mp3"/>
-		<bookmark name="Nostalgie Stars 80" url="http://adwzg3.scdn.arkena.com/8744/nrj_173437.mp3"/>
-		<bookmark name="Nostalgie Tous les styles" url="http://adwzg4.scdn.arkena.com/8788/nrj_170865.mp3"/>
-	</group>
-
-	<group name="Chérie FM">
-		<bookmark name="Chérie FM" url="http://mp3.live.tv-radio.com/cherie_fm/all/che_124310.mp3"/>
-
-		<bookmark name="Chérie 80's" url="http://adwzg3.scdn.arkena.com/8600/nrj_168310.mp3"/>
-		<bookmark name="Chérie 90's" url="http://adwzg3.scdn.arkena.com/8601/nrj_172773.mp3"/>
-		<bookmark name="Chérie Acoustic" url="http://adwzg3.scdn.arkena.com/8644/nrj_172974.mp3"/>
-		<bookmark name="Chérie at Work" url="http://adwzg3.scdn.arkena.com/8571/nrj_176201.mp3"/>
-		<bookmark name="Chérie Ballads" url="http://adwzg3.tdf-cdn.com/8716/nrj_166913.mp3"/>
-		<bookmark name="Chérie Emotions" url="http://adwzg4.tdf-cdn.com/8830/nrj_164825.mp3"/>
-		<bookmark name="Chérie Eté" url="http://adwzg4.tdf-cdn.com/10124/nrj_110839.mp3"/>
-		<bookmark name="Chérie Fitness" url="http://adwzg3.scdn.arkena.com/8678/nrj_176534.mp3"/>
-		<bookmark name="Chérie Frenchy" url="http://adwzg3.scdn.arkena.com/8569/nrj_177648.mp3"/>
-		<bookmark name="Chérie Happy" url="http://adwzg4.scdn.arkena.com/9894/nrj_103849.mp3"/>
-		<bookmark name="Chérie Jazzy" url="http://adwzg3.scdn.arkena.com/8602/nrj_167655.mp3"/>
-		<bookmark name="Chérie Latino" url="http://adwzg3.scdn.arkena.com/8599/nrj_171454.mp3"/>
-		<bookmark name="Chérie Les plus belles voix" url="http://adwzg4.scdn.arkena.com/8866/nrj_172778.mp3"/>
-		<bookmark name="Chérie Lounge" url="http://adwzg3.tdf-cdn.com/8638/nrj_164024.mp3"/>
-		<bookmark name="Chérie Love Songs" url="http://adwzg3.scdn.arkena.com/8570/nrj_170997.mp3"/>
-		<bookmark name="Chérie No Repeat" url="http://adwzg3.tdf-cdn.com/8708/nrj_177509.mp3"/>
-		<bookmark name="Chérie Nouveautés" url="http://adwzg3.scdn.arkena.com/8635/nrj_175012.mp3"/>
-		<bookmark name="Chérie Party" url="http://adwzg3.scdn.arkena.com/8639/nrj_172411.mp3"/>
-		<bookmark name="Chérie Pop" url="http://adwzg3.scdn.arkena.com/8587/nrj_175489.mp3"/>
-		<bookmark name="Chérie Pop Ballads" url="http://adwzg5.scdn.arkena.com/10896/nrj_110459.mp3"/>
-		<bookmark name="Chérie Relax" url="http://adwzg4.scdn.arkena.com/9892/nrj_103712.mp3"/>
-		<bookmark name="Chérie RNB" url="http://adwzg3.scdn.arkena.com/8660/nrj_166610.mp3"/>
-		<bookmark name="Chérie Romantic" url="http://adwzg3.tdf-cdn.com/8679/nrj_164792.mp3"/>
-		<bookmark name="Chérie Spa" url="http://adwzg3.scdn.arkena.com/8746/nrj_167735.mp3"/>
-		<bookmark name="Chérie Sweet Home" url="http://adwzg3.scdn.arkena.com/8680/nrj_171678.mp3"/>
-		<bookmark name="Chérie Zen" url="http://adwzg3.scdn.arkena.com/8568/nrj_163374.mp3"/>
-	</group>
-
 	<group name="RFM">
 		<bookmark name="RFM 80's" url="http://rfm-wr4-mp3-128.scdn.arkena.com/rfm.mp3"/>
 		<bookmark name="RFM Divas" url="http://rfm-wr3-mp3-128.scdn.arkena.com/rfm.mp3"/>
@@ -434,7 +338,6 @@
 		<bookmark name="MFM talents TV" url="http://ice38.infomaniak.ch/mfm-talents-tv.mp3"/>
 		<bookmark name="MFM 100% tubes du grenier" url="http://ice38.infomaniak.ch/mfm-wr3-128.mp3"/>
 		<bookmark name="MFM 100% voix du sud" url="http://ice38.infomaniak.ch/voix-du-sud.mp3"/>
-
 	</group>
 
 	<group name="Latina">
