@@ -1,6 +1,6 @@
 <bookmarks>
 <group name="root">
-    		<bookmark name="Oui Fm" url="http://185.59.40.10/ouifm-high.mp3"/>
+		<bookmark name="Oui Fm" url="http://185.59.40.10/ouifm-high.mp3"/>
 		<bookmark name="Magic Radio" url="http://www.pulsradio.com/80/stream192k.m3u"/>
 		<bookmark name="Frequence 3" url="http://www.frequence3.fr/plugins/winamp192.m3u"/>
 		<bookmark name="Nostalgie" url="http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"/>
@@ -16,7 +16,7 @@
 		<bookmark name="Fun Radio" url="http://streaming.radio.funradio.fr/fun-1-48-192"/>
 		<bookmark name="FG" url="http://radiofg.impek.com/fg"/>
 		<bookmark name="RFM" url="http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3"/>
-    		<bookmark name="Cherie Fm" url="http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios"/>
+		<bookmark name="Cherie Fm" url="http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="RTL2" url="http://streaming.radio.rtl2.fr/rtl2-1-48-192"/>
 		<bookmark name="Sud Radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
 		<bookmark name="Virgin Radio" url="http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3"/>
@@ -198,18 +198,8 @@
 		<bookmark name="Forum live" url="http://icepe14.infomaniak.ch/forumlive.mp3"/>
 		<bookmark name="Forum love" url="http://icepe14.infomaniak.ch/forumlove.mp3"/>
 		<bookmark name="Forum 2000" url="http://icepe10.infomaniak.ch/forum2000.mp3"/>
-                <bookmark name="Forum en francais" url="http://icepe14.infomaniak.ch/forumenfrancais-128.mp3"/>
+		<bookmark name="Forum en francais" url="http://icepe14.infomaniak.ch/forumenfrancais-128.mp3"/>
 
-
-	</group>
-
-	<group name="Chante France">
-		<bookmark name="Chante France 60's" url="http://stream1.chantefrance.com/cf-60.m3u
-"/>
-		<bookmark name="Chante France 70's" url="http://stream1.chantefrance.com/cf-70.m3u"/>
-		<bookmark name="Chante France 80's" url="http://stream1.chantefrance.com/cf-80.m3u"/>
-		<bookmark name="Chante France comptines" url="http://stream1.chantefrance.com/cf-comptines.m3u"/>
-		<bookmark name="Chante France emotion" url="http://stream1.chantefrance.com/cf-emotion.m3u"/>
 
 	</group>
 
@@ -225,9 +215,8 @@
 		
 	</group>
 
-<group name="Espace">
-		<bookmark name="Espace Club" url="http://aise2.infomaniak.ch/espace100-high.mp3
-"/>
+	<group name="Espace">
+		<bookmark name="Espace Club" url="http://aise2.infomaniak.ch/espace100-high.mp3"/>
 		<bookmark name="Espace Dance 90" url="http://aise9.infomaniak.ch/espace-disco-high.mp3"/>
 		<bookmark name="Espace Dancefloor" url="http://aise9.infomaniak.ch/espace-dancefloor-high.mp3"/>
 		<bookmark name="Espace Hot 30" url="http://aise9.infomaniak.ch/espace-vintage-high.mp3"/>
@@ -268,12 +257,12 @@
 		<bookmark name="Generation Rohff" url="http://aise6.infomaniak.ch/generation-rohff.mp3"/>
 		<bookmark name="Generation slowjam" url="http://aise6.infomaniak.ch/gene-wr11.mp3"/>
 		<bookmark name="Generation soul" url="http://aise9.infomaniak.ch/gene-wr07.mp3"/>
-                <bookmark name="Generation Watti B" url="http://aise6.infomaniak.ch/generations-wati-b.mp3"/>
+		<bookmark name="Generation Watti B" url="http://aise6.infomaniak.ch/generations-wati-b.mp3"/>
 	</group>
 
 	<group name="Urban Hit">
 		<bookmark name="Urban Hit à l'ancienne" url="http://icepe14.infomaniak.ch/urbanhitalancienne.mp3"/>
-                <bookmark name="Urban black" url="http://icepe14.infomaniak.ch/urbanhitblack128.mp3"/>
+		<bookmark name="Urban black" url="http://icepe14.infomaniak.ch/urbanhitblack128.mp3"/>
 		<bookmark name="Urban Hit latino" url="http://icepe14.infomaniak.ch/urbanhitreggeaton-128.mp3"/>
 		<bookmark name="Urban rainb" url="http://icepe14.infomaniak.ch/urbanhitrai.mp3"/>
 		<bookmark name="Urban Hit rap FR" url="http://icepe14.infomaniak.ch/urbanhitrapfr-128.mp3"/>
@@ -337,7 +326,6 @@
 		<bookmark name="Ouï Collector" url="http://ouifm2.ice.infomaniak.ch/ouifm3.mp3"/>
 		<bookmark name="Ouï Blues" url="http://ouifm4.ice.infomaniak.ch/ouifm4.mp3"/>
 		<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
-
 		<bookmark name="Ouï Rock70" url="http://185.59.40.10/ouifmseventies.mp3"/>
 		<bookmark name="Ouï Rock60" url="http://185.59.40.10/ouifmsixties.mp3"/>
 		<bookmark name="Ouï Reggae" url="http://185.59.40.10/ouifmganja-128.mp3"/>
@@ -361,7 +349,6 @@
 
 	<group name="MFM">
 		<bookmark name="MFM" url="http://mfm.ice.infomaniak.ch/mfm-128.mp3"/>
-		<bookmark name="MFM années 60" url="http://aise8.infomaniak.ch/mfm-wr15.mp3"/>
 		<bookmark name="MFM années 70" url="http://aise8.infomaniak.ch/mfmwr-culte-70.mp3"/>
 		<bookmark name="MFM années 90" url="http://aise8.infomaniak.ch/mfmwr-culte-90.mp3"/>
 		<bookmark name="MFM années 2000" url="http://aise8.infomaniak.ch/mfm-wr12.mp3"/>
@@ -375,7 +362,6 @@
 		<bookmark name="MFM 100% Johnny" url="http://aise8.infomaniak.ch/mfmwr-johnny.mp3"/>
 		<bookmark name="MFM Comptines" url="http://aise8.infomaniak.ch/mfm-wr11.mp3"/>
 		<bookmark name="MFM Culte 60/70" url="http://aise8.infomaniak.ch/mfm-wr15.mp3"/>
-		<bookmark name="MFM Culte 80/90" url="http://aise8.infomaniak.chh/mfm-wr2-128.mp3"/>
 		<bookmark name="MFM Duos" url="http://aise8.infomaniak.ch/mfm-wr06.mp3"/>
 		<bookmark name="MFM Francophonie" url="http://aise8.infomaniak.ch/mfm-wr10.mp3"/>
 		<bookmark name="MFM Génération Toesca" url="http://aise8.infomaniak.ch/mfm-wr3-128.mp3"/>
@@ -424,7 +410,7 @@
 		<bookmark name="Ado Dance Hall" url="http://icepe14.infomaniak.ch/adodancehall-128.mp3"/>
 		<bookmark name="Ado Kizomba" url="http://icepe14.infomaniak.ch/adokizomba-128.mp3"/>
 		<bookmark name="Ado Love" url="http://icepe14.infomaniak.ch/adolove-128.mp3"/>
-                <bookmark name="Ado rnb us" url="http://icepe14.infomaniak.ch/adornbus-128.mp3"/>
+		<bookmark name="Ado rnb us" url="http://icepe14.infomaniak.ch/adornbus-128.mp3"/>
 	</group>
 
 	<group name="Vibration">
