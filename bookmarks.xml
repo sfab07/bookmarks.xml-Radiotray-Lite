@@ -7,7 +7,7 @@
 		<bookmark name="Chante France" url="http://87-98-159-156.ovh.net/Chante_France"/>
 		<bookmark name="Rire et chansons" url="http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="BollyHits" url="http://176.31.107.8:8172/stream"/>
-		<bookmark name="Radio Star rap Marseille" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11600/stream/49328"/>
+		<bookmark name="Radio Star rap Marseille" url="http://listen.radioking.com/radio/11600/stream/49328"/>
 
 		<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 
@@ -105,21 +105,10 @@
 	</group>
 
 	<group name="M2">
-		<bookmark name="M2 80" url="http://live.m2stream.fr/m280-128.mp3"/>
-		<bookmark name="M2 90" url="http://live.m2stream.fr/m290-128.mp3"/>
-		<bookmark name="M2 Caliente" url="http://live.m2stream.fr/m2caliente-128.mp3"/>
-		<bookmark name="M2 ChillOut" url="http://live.m2stream.fr/m2chillout-128.mp3"/>
-		<bookmark name="M2 Classic" url="http://live.m2stream.fr/m2classic-128.mp3"/>
-		<bookmark name="M2 Club" url="http://live.m2stream.fr/m290-club.mp3"/>
-		<bookmark name="M2 Funk" url="http://live.m2stream.fr/m2funk-128.mp3"/>
-		<bookmark name="M2 HipHop" url="http://live.m2stream.fr/m2hip-hop-128.mp3"/>
 		<bookmark name="M2 Hit" url="http://live.m2stream.fr/m2hit-128.mp3"/>
-		<bookmark name="M2 Jazz" url="http://live.m2stream.fr/m2jazz-128.mp3"/>
-		<bookmark name="M2 Love" url="http://live.m2stream.fr/m2love-128.mp3"/>
-		<bookmark name="M2 Rock" url="http://live.m2stream.fr/m2rock-128.mp3"/>
-		<bookmark name="M2 Sunshine" url="http://live.m2stream.fr/m2sunshine-128.mp3"/>
-
-	</group>
+		<bookmark name="M2 ChillOut" url="http://live.m2stream.fr/m2chillout-128.mp3"/>
+		<bookmark name="M2 Club" url="http://live.m2stream.fr/m2club-128.mp3"/>
+		</group>
 
 	<group name="AllZic">
 		<bookmark name="AllZic 50" url="http://allzic29.ice.infomaniak.ch/allzic29.mp3"/>
@@ -204,14 +193,14 @@
 	</group>
 
 	<group name="Radio Star">
-		<bookmark name="Radio Star Dance" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11607/stream/49340"/>
-		<bookmark name="Radio Star Electro" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11604/stream/49334"/>
-		<bookmark name="Radio Star Funky collector" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11599/stream/49325"/>
-		<bookmark name="Radio Star Hits" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11598/stream/49322"/>
-		<bookmark name="Radio Star Marignane" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11609/stream/49343"/>
+		<bookmark name="Radio Star Talents du sud" url="http://listen.radioking.com/radio/11602/stream/49331"/>
+		<bookmark name="Radio Star Hits" url="http://listen.radioking.com/radio/11598/stream/49322"/>
 		<bookmark name="Radio Star Rap Marseille" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11600/stream/49328"/>
-		<bookmark name="Radio Star Sun" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11606/stream/49337"/>
-		<bookmark name="Radio Star Talents Sud" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11602/stream/49331"/>
+		<bookmark name="Radio Star Night" url="http://listen.radioking.com/radio/11607/stream/49340"/>
+		<bookmark name="Radio Star La Ciotat" url="http://listen.radioking.com/radio/11604/stream/49334"/>
+		<bookmark name="Radio Star Marignane" url="http://listen.radioking.com/radio/11609/stream/49343"/>
+		<bookmark name="Radio Star Sun" url="http://listen.radioking.com/radio/11606/stream/49337"/>
+		<bookmark name="Radio Star Istres" url="http://listen.radioking.com/radio/11599/stream/49325"/>
 		
 	</group>
 
@@ -399,18 +388,18 @@
 		<bookmark name="FG USA" url="http://fgradio.rastream.com/radiofgamerica-useast"/>
 	</group>
 
-	<group name="Ado">
-		<bookmark name="Ado" url="http://icepe14.infomaniak.ch/start-adofm-high.mp3"/>
-		<bookmark name="Ado Rap FR" url="http://icepe14.infomaniak.ch/adorapfr-128.mp3"/>
-		<bookmark name="Ado Rap US" url="http://icepe14.infomaniak.ch/adorapus-128.mp3"/>
-		<bookmark name="Ado Reggaeton" url="http://icepe14.infomaniak.ch/adoreggaeton-128.mp3"/>
-		<bookmark name="Ado Work" url="http://icepe14.infomaniak.ch/adowork-128.mp3"/>
-		<bookmark name="Ado Classic" url="http://icepe14.infomaniak.ch/adoclassic-128.mp3"/>
-		<bookmark name="Ado Club" url="http://icepe14.infomaniak.ch/adoclub-128.mp3"/>
-		<bookmark name="Ado Dance Hall" url="http://icepe14.infomaniak.ch/adodancehall-128.mp3"/>
-		<bookmark name="Ado Kizomba" url="http://icepe14.infomaniak.ch/adokizomba-128.mp3"/>
-		<bookmark name="Ado Love" url="http://icepe14.infomaniak.ch/adolove-128.mp3"/>
-		<bookmark name="Ado rnb us" url="http://icepe14.infomaniak.ch/adornbus-128.mp3"/>
+	<group name="Swigg">
+		<bookmark name="Swigg" url="http://icepe14.infomaniak.ch/start-adofm-high.mp3"/>
+		<bookmark name="Swigg Rap FR" url="http://icepe14.infomaniak.ch/adorapfr-128.mp3"/>
+		<bookmark name="Swigg Rap US" url="http://icepe14.infomaniak.ch/adorapus-128.mp3"/>
+		<bookmark name="Swigg Reggaeton" url="http://icepe14.infomaniak.ch/adoreggaeton-128.mp3"/>
+		<bookmark name="Swigg Work" url="http://icepe14.infomaniak.ch/adowork-128.mp3"/>
+		<bookmark name="Swigg Classic" url="http://icepe14.infomaniak.ch/adoclassic-128.mp3"/>
+		<bookmark name="Swigg Club" url="http://icepe14.infomaniak.ch/adoclub-128.mp3"/>
+		<bookmark name="Swigg Dance Hall" url="http://icepe14.infomaniak.ch/adodancehall-128.mp3"/>
+		<bookmark name="Swigg Kizomba" url="http://icepe14.infomaniak.ch/adokizomba-128.mp3"/>
+		<bookmark name="Swigg Love" url="http://icepe14.infomaniak.ch/adolove-128.mp3"/>
+		<bookmark name="Swigg rnb us" url="http://icepe14.infomaniak.ch/adornbus-128.mp3"/>
 	</group>
 
 	<group name="Vibration">
