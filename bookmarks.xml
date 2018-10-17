@@ -105,9 +105,21 @@
 	</group>
 
 	<group name="M2">
+	
 		<bookmark name="M2 Hit" url="http://live.m2stream.fr/m2hit-128.mp3"/>
+		<bookmark name="M2 Love" url="http://live.m2stream.fr/m2love-128.mp3"/>
+		<bookmark name="M2 Hip hop" url="http://live.m2stream.fr/m2hip-hop-128.mp3"/>
+		<bookmark name="M2 80" url="http://live.m2stream.fr/m280-128.mp3"/>
+		<bookmark name="M2 90" url="http://live.m2stream.fr/m290-128.mp3"/>
+		<bookmark name="M2 Rock" url="http://live.m2stream.fr/m2rock-128.mp3"/>
+		<bookmark name="M2 Sunshine" url="http://live.m2stream.fr/m2sunshine-128.mp3"/>
+		<bookmark name="M2 Caliente" url="http://live.m2stream.fr/m2caliente-128.mp3"/>
+		<bookmark name="M2 funk" url="http://live.m2stream.fr/m2funk-128.mp3"/>
+		<bookmark name="M2 club" url="http://live.m2stream.fr/m2club-128.mp3"/>
 		<bookmark name="M2 ChillOut" url="http://live.m2stream.fr/m2chillout-128.mp3"/>
-		<bookmark name="M2 Club" url="http://live.m2stream.fr/m2club-128.mp3"/>
+		<bookmark name="M2 Jazz" url="http://live.m2stream.fr/m2jazz-128.mp3"/>
+		<bookmark name="M2 Classic" url="http://live.m2stream.fr/m2classic-128.mp3"/>
+
 		</group>
 
 	<group name="AllZic">
@@ -380,7 +392,7 @@
 		<bookmark name="FG Berlin" url="http://radiofg.impek.com/fge"/>
 		<bookmark name="FG Mix" url="http://radiofg.impek.com/fg6"/>
 		<bookmark name="FG Dance" url="http://radiofg.impek.com/fgd"/>
-		<bookmark name="FG Party Station" url="http://radiofg.impek.com/fgv"/>
+		<bookmark name="FG Remix Online" url="http://radiofg.impek.com/fgv"/>
 		<bookmark name="FG House Chic" url="http://radiofg.impek.com/fgc"/>
 		<bookmark name="FG Underground" url="http://radiofg.impek.com/ufg"/>
 		<bookmark name="FG USA" url="http://fgradio.rastream.com/radiofgamerica-useast"/>
