@@ -6,8 +6,8 @@
 		<bookmark name="Nostalgie" url="http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="Chante France" url="http://87-98-159-156.ovh.net/Chante_France"/>
 		<bookmark name="Rire et chansons" url="http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"/>
-		<bookmark name="BollyHits" url="http://176.31.107.8:8172/stream"/>
-		<bookmark name="Radio Star rap Marseille" url="http://listen.radioking.com/radio/11600/stream/49328"/>
+		<bookmark name="FG Chic" url="http://http://5.196.137.228/fgc.mp3"/>
+		<bookmark name="Swigg Classic" url="http://icepe14.infomaniak.ch/adoclassic-128.mp3"/>
 
 		<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 
@@ -297,9 +297,7 @@
 	</group>
 
 	<group name="Radionomy">
-		<bookmark name="Radioteentaal" url="http://www.radioteentaal.com:8000"/>
 		<bookmark name="ABC Lounge" url="http://listen.radionomy.com/abc-lounge.m3u"/>
-		<bookmark name="Cinemix" url="http://stations.pronetlicensing.com/cinemix/cinemix_mp3.pls"/>
 		<bookmark name="Ledjam" url="http://www.ledjamradio.com/sound"/>
 		<bookmark name="F2X" url="http://listen.radionomy.com/f2x-radio"/>
 		<bookmark name="Hlove" url="http://streaming.radionomy.com/HloveFR"/>
