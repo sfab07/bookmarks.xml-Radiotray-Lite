@@ -1,7 +1,7 @@
 <bookmarks>
 <group name="root">
 		<bookmark name="Oui Fm" url="http://185.59.40.10/ouifm-high.mp3"/>
-		<bookmark name="Magic Radio" url="http://www.pulsradio.com/80/stream192k.m3u"/>
+		<bookmark name="Magic Radio" url="https://magic-radio.net/mp3.m3u"/>
 		<bookmark name="Frequence 3" url="http://hivane01.frequence3.net/frequence3-128.mp3"/>
 		<bookmark name="Nostalgie" url="http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="Chante France" url="http://87-98-159-156.ovh.net/Chante_France"/>
@@ -59,7 +59,6 @@
 		<bookmark name="France Bleu Creuse" url="http://direct.francebleu.fr/live/fbcreuse-midfi.mp3"/>
 		<bookmark name="France Bleu Drôme Ardèche" url="http://direct.francebleu.fr/live/fbdromeardeche-midfi.mp3"/>
 		<bookmark name="France Bleu Elsass" url="http://direct.francebleu.fr/live/Fbelsass-midfi.mp3"/>
-		<bookmark name="France Bleu RCFM" url="http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3"/>
 		<bookmark name="France Bleu Gard Lozère" url="http://direct.francebleu.fr/live/fbgardlozere-midfi.mp3"/>
 		<bookmark name="France Bleu Gascogne" url="http://direct.francebleu.fr/live/fbgascogne-midfi.mp3"/>
 		<bookmark name="France Bleu Gironde" url="http://direct.francebleu.fr/live/fbgironde-midfi.mp3"/>
@@ -82,6 +81,7 @@
 		<bookmark name="France Bleu Picardie" url="http://direct.francebleu.fr/live/fbpicardie-midfi.mp3"/>
 		<bookmark name="France Bleu Poitou" url="http://direct.francebleu.fr/live/fbpoitou-midfi.mp3"/>
 		<bookmark name="France Bleu Provence" url="http://direct.francebleu.fr/live/fbprovence-midfi.mp3"/>
+		<bookmark name="France Bleu RCFM" url="http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3"/>
 		<bookmark name="France Bleu Roussillon" url="http://direct.francebleu.fr/live/fbroussillon-midfi.mp3"/>
 		<bookmark name="France Bleu Saint Etienne Loire" url="http://direct.francebleu.fr/live/fbstetienne-midfi.mp3"/>
 		<bookmark name="France Bleu Sud Lorraine" url="http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3"/>
@@ -124,17 +124,25 @@
 
 	<group name="AllZic">
 		<bookmark name="AllZic 50" url="http://allzic29.ice.infomaniak.ch/allzic29.mp3"/>
+		<bookmark name="AllZic 70" url="http://allzic50.ice.infomaniak.ch/allzic50.mp3"/>
 		<bookmark name="AllZic 80" url="http://allzic08.ice.infomaniak.ch/allzic08.mp3"/>
 		<bookmark name="AllZic 90" url="http://allzic24.ice.infomaniak.ch/allzic24.mp3"/>
+		<bookmark name="AllZic Africa" url="http://allzic49.ice.infomaniak.ch/allzic51.mp3"/>
+		<bookmark name="AllZic Annee 2000" url="http://allzic49.ice.infomaniak.ch/allzic49.mp3"/>
 		<bookmark name="AllZic Black Music" url="http://allzic04.ice.infomaniak.ch/allzic04.mp3"/>
 		<bookmark name="AllZic Blues" url="http://allzic09.ice.infomaniak.ch/allzic09.mp3"/>
 		<bookmark name="AllZic Brazil" url="http://allzic19.ice.infomaniak.ch/allzic19.mp3"/>
+		<bookmark name="AllZic Chill Out" url="http://allzic53.ice.infomaniak.ch/allzic53.mp3"/>
 		<bookmark name="AllZic Classic" url="http://allzic06.ice.infomaniak.ch/allzic06.mp3"/>
+		<bookmark name="AllZic Classic Piano" url="http://allzic47.ice.infomaniak.ch/allzic47.mp3"/>
+		<bookmark name="AllZic Classic Violon" url="http://allzic48.ice.infomaniak.ch/allzic48.mp3"/>
+		<bookmark name="AllZic Comedie Musicale" url="http://allzic46.ice.infomaniak.ch/allzic46.mp3"/>
 		<bookmark name="AllZic Comptines" url="http://allzic05.ice.infomaniak.ch/allzic05.mp3"/>
 		<bookmark name="AllZic Country" url="http://allzic32.ice.infomaniak.ch/allzic32.mp3"/>
 		<bookmark name="AllZic Dancefloor" url="http://allzic07.ice.infomaniak.ch/allzic07.mp3"/>
 		<bookmark name="AllZic Deep Disco" url="http://allzic31.ice.infomaniak.ch/allzic31.mp3"/>
 		<bookmark name="AllZic Disco" url="http://allzic36.ice.infomaniak.ch/allzic36.mp3"/>
+		<bookmark name="AllZic Disney" url="http://allzic52.ice.infomaniak.ch/allzic52.mp3"/>
 		<bookmark name="AllZic Enfant 0-4 ans" url="http://allzic14.ice.infomaniak.ch/allzic14.mp3"/>
 		<bookmark name="AllZic Enfant 4-7 ans" url="http://allzic15.ice.infomaniak.ch/allzic15.mp3"/>
 		<bookmark name="AllZic Enfant 7-12 ans" url="http://allzic16.ice.infomaniak.ch/allzic16.mp3"/>
@@ -145,20 +153,32 @@
 		<bookmark name="AllZic Gold Francais" url="http://allzic30.ice.infomaniak.ch/allzic30.mp3"/>
 		<bookmark name="AllZic Gothique" url="http://allzic27.ice.infomaniak.ch/allzic27.mp3"/>
 		<bookmark name="AllZic Hard et Heavy" url="http://allzic18.ice.infomaniak.ch/allzic18.mp3"/>
+		<bookmark name="AllZic Humour" url="http://allzic25.ice.infomaniak.ch/allzic25.mp3"/>
 		<bookmark name="AllZic Inter Active" url="http://allzic20.ice.infomaniak.ch/allzic20.mp3"/>
 		<bookmark name="AllZic Italia" url="http://allzic35.ice.infomaniak.ch/allzic35.mp3"/>
+		<bookmark name="AllZic Johnny" url="http://allzic56.ice.infomaniak.ch/allzic56.mp3"/>
 		<bookmark name="AllZic Jazz Lounge" url="http://allzic03.ice.infomaniak.ch/allzic03.mp3"/>
+		<bookmark name="AllZic Latino" url="http://allzic39.ice.infomaniak.ch/allzic39.mp3"/>
+		<bookmark name="AllZic Live francais" url="http://allzic44.ice.infomaniak.ch/allzic44.mp3"/>
+		<bookmark name="AllZic Live gold" url="http://allzic45.ice.infomaniak.ch/allzic45.mp3"/>
 		<bookmark name="AllZic Lounge" url="http://allzic21.ice.infomaniak.ch/allzic21.mp3"/>
 		<bookmark name="AllZic Love Song" url="http://allzic34.ice.infomaniak.ch/allzic34.mp3"/>
 		<bookmark name="AllZic Musique Orientale" url="http://allzic33.ice.infomaniak.ch/allzic33.mp3"/>
+		<bookmark name="AllZic National 7" url="http://allzic38.ice.infomaniak.ch/allzic38.mp3"/>
+		<bookmark name="AllZic Noel" url="http://allzic42.ice.infomaniak.ch/allzic42.mp3"/>
 		<bookmark name="AllZic Nouveautes francaises" url="http://allzic23.ice.infomaniak.ch/allzic23.mp3"/>
+		<bookmark name="AllZic Pop queens" url="http://allzic54.ice.infomaniak.ch/allzic54.mp3"/>
 		<bookmark name="AllZic R and B" url="http://allzic08.ice.infomaniak.ch/allzic10.mp3"/>
-		<bookmark name="AllZic Humour" url="http://allzic25.ice.infomaniak.ch/allzic25.mp3"/>
 		<bookmark name="AllZic Rap FR" url="http://allzic02.ice.infomaniak.ch/allzic02.mp3"/>
 		<bookmark name="AllZic Rap US" url="http://allzic01.ice.infomaniak.ch/allzic01.mp3"/>
+		<bookmark name="AllZic Reggae" url="http://allzic43.ice.infomaniak.ch/allzic43.mp3"/>
 		<bookmark name="AllZic Rock FM" url="http://allzic17.ice.infomaniak.ch/allzic17.mp3"/>
+		<bookmark name="AllZic Route 66" url="http://allzic37.ice.infomaniak.ch/allzic37.mp3"/>
 		<bookmark name="AllZic Top 10" url="http://allzic22.ice.infomaniak.ch/allzic22.mp3"/>
+		<bookmark name="AllZic Top 20" url="http://allzic41.ice.infomaniak.ch/allzic41.mp3"/>
+		<bookmark name="AllZic Top 50" url="http://allzic55.ice.infomaniak.ch/allzic55.mp3"/>
 		<bookmark name="AllZic Zouk" url="http://allzic28.ice.infomaniak.ch/allzic28.mp3"/>
+		<bookmark name="AllZic Zen" url="http://allzic20.ice.infomaniak.ch/allzic20.mp3"/>
 	</group>
 
 	<group name="100%">
@@ -326,7 +346,7 @@
 		<bookmark name="Ouï Alternatif" url="http://ouifm2.ice.infomaniak.ch/ouifm2.mp3"/>
 		<bookmark name="Ouï Collector" url="http://ouifm2.ice.infomaniak.ch/ouifm3.mp3"/>
 		<bookmark name="Ouï Bluesnrock" url="http://broadcast.infomaniak.ch/ouifmbluesnrock-128.mp3"/>
-                <bookmark name="Ouï Bring the noise" url="http://broadcast.infomaniak.ch/ouifmbringthenoise.mp3"/>
+		<bookmark name="Ouï Bring the noise" url="http://broadcast.infomaniak.ch/ouifmbringthenoise.mp3"/>
 		<bookmark name="Ouï Christmas rock" url="http://broadcast.infomaniak.ch/ouifmnoel-128.mp3"/>
 		<bookmark name="Ouï Classic rock" url="http://broadcast.infomaniak.ch/ouifm3.mp3"/>
 		<bookmark name="Ouï Generation Woodstock" url="http://broadcast.infomaniak.ch/ouifmwoodstock.mp3"/>
