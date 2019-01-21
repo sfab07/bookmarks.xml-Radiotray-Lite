@@ -1,6 +1,6 @@
 # bookmarks.xml axés sur les radios et webradios françaises. (plus de 600 !!!)
 
-Utiliser directement bookmarks.sh : il va se charger de transférer les bookmarks du site directement au bonne endroit sinon déplacer bookmarks.xml dans le dossier : /home/.config/radiotray-lite/  
+Utiliser directement bookmarks.sh : il va se charger de transférer les bookmarks du site directement au bonne endroit sinon déplacer vous même bookmarks.xml dans le dossier : /home/.config/radiotray-lite/  
 
 Ensuite recharger les signets.
 
