@@ -163,13 +163,12 @@
 
 	<group name="FG + Espace + Prysm">
 		<bookmark name="FG Belgique" url="http://radiofg.impek.com/fga"/>
-		<bookmark name="FG Berlin" url="http://radiofg.impek.com/fge"/>
-		<bookmark name="FG Mix" url="http://radiofg.impek.com/fg6"/>
-		<bookmark name="FG Dance" url="http://radiofg.impek.com/fgd"/>
-		<bookmark name="FG Remix Online" url="http://radiofg.impek.com/fgv"/>
+		<bookmark name="FG Non Stop" url="http://radiofg.impek.com/fge"/>
+		<bookmark name="Club FG" url="http://radiofg.impek.com/fg6"/>
+		<bookmark name="FG Deep Dance" url="http://radiofg.impek.com/fgd"/>
+		<bookmark name="FG Starter" url="http://radiofg.impek.com/fgv"/>
 		<bookmark name="FG House Chic" url="http://radiofg.impek.com/fgc"/>
 		<bookmark name="FG Underground" url="http://radiofg.impek.com/ufg"/>
-		<bookmark name="FG USA" url="http://fgradio.rastream.com/radiofgamerica-useast"/>
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 		<bookmark name="Espace Lyon" url="http://aise2.infomaniak.ch/radioespace-high.mp3"/>
 		<bookmark name="Espace Club" url="http://aise2.infomaniak.ch/espace100-high.mp3"/>
@@ -267,9 +266,9 @@
 		<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
 		<bookmark name="Ouï Johnny" url="http://broadcast.infomaniak.ch/ouifmjohnnyislive.mp3"/>
 		<bookmark name="Ouï Slows rock" url="http://broadcast.infomaniak.ch/ouifmslowrock.mp3"/>
-		<bookmark name="Ouï Reggae" url="http://185.59.40.10/ouifmganja-128.mp3"/>
-		<bookmark name="Ouï Rock60" url="http://185.59.40.10/ouifmsixties.mp3"/>
-		<bookmark name="Ouï Rock70" url="http://185.59.40.10/ouifmseventies.mp3"/>
+		<bookmark name="Ouï Reggae" url="http://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3"/>
+		<bookmark name="Ouï Rock60" url="http://rock60s.stream.ouifm.fr/ouifmsixties.mp3"/>
+		<bookmark name="Ouï Rock70" url="http://rock70s.stream.ouifm.fr/ouifmseventies.mp3"/>
 		<bookmark name="Ouï Rock80" url="http://broadcast.infomaniak.ch/ouifmeighties.mp3"/>
 		<bookmark name="Ouï Rock90" url="http://broadcast.infomaniak.ch/ouifmnineties.mp3"/>
 		<bookmark name="Ouï Rock 2000" url="http://broadcast.infomaniak.ch/ouifmrock2000.mp3"/>
@@ -567,11 +566,9 @@
 		<bookmark name="Scoop 2000" url="http://radioscoopannees2000.ice.infomaniak.ch/radioscoop-annees2000-128.mp3"/>
 		<bookmark name="Scoop 2010" url="https://scoopannees2010.ice.infomaniak.ch/radioscoop-annees2010-128.mp3"/>
 		<bookmark name="Scoop Ciné" url="http://stream.radioscoop.com/scoop12.mp3"/>
-		<bookmark name="Scoop Golds" url="http://stream.radioscoop.com/scoop8.mp3"/>
 		<bookmark name="Scoop Jazzy" url="https://scoopjazzy.ice.infomaniak.ch/radioscoop-jazzy-128.mp3"/>
 		<bookmark name="Scoop Latino" url="https://scooplatino.ice.infomaniak.ch/radioscoop-latino-128.mp3"/>
 		<bookmark name="Scoop Love" url="http://stream.radioscoop.com/scoop4.mp3"/>
-		<bookmark name="Scoop Noël" url="http://scoopnoel.ice.infomaniak.ch/radioscoop-noel-128.mp3"/>
 		<bookmark name="Scoop Power Dance" url="http://stream.radioscoop.com/scoop3.mp3"/>
 		<bookmark name="Scoop Playlist" url="http://stream.radioscoop.com/scoop2.mp3"/>
 		<bookmark name="Scoop Pop" url="http://stream.radioscoop.com/scoop14.mp3"/>
@@ -593,13 +590,13 @@
 		<bookmark name="Vibration 80s" url="http://live-reflector.infomaniak.ch/vibration80s.aac"/>
 		<bookmark name="Vibration 90s" url="http://live-reflector.infomaniak.ch/vibration90s.aac"/>
 		<bookmark name="Vibration Belgique" url="http://live-reflector.infomaniak.ch/vibrationbelgique-high.mp3"/>
-		<bookmark name="Vibration Club" url="http://live-reflector.infomaniak.ch/vibrationlatina.aac"/>
+		<bookmark name="Vibration Club" url="http://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3"/>
 		<bookmark name="Vibration latina" url="http://live-reflector.infomaniak.ch/vibrationclub.aac"/>
 		<bookmark name="Vibration lounge" url="http://live-reflector.infomaniak.ch/vibrationlounge.aac"/>
 		<bookmark name="Vibration love" url="http://live-reflector.infomaniak.ch/vibrationlove.aac"/>
 		<bookmark name="Vibration poprock" url="http://live-reflector.infomaniak.ch/vibrationpoprock-high.mp3"/>
 		<bookmark name="Vibration work" url="http://live-reflector.infomaniak.ch/vibrationwork.aac"/>
-		<bookmark name="Vibration evenement" url="http://live-reflector.infomaniak.ch/vibrationevenement.mp3"/>
+		<bookmark name="Vibration en français" url="https://vibrationenfrancais.ice.infomaniak.ch/vibrationenfrancais-128.mp3"/>
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 		<bookmark name="Wit" url="http://icepe14.infomaniak.ch/start-witfm-high.mp3"/>
 		<bookmark name="Wit 2000" url="http://icepe14.infomaniak.ch/wit2000.mp3"/>
@@ -629,12 +626,12 @@
 	<group name="Radio Star">
 		<bookmark name="Radio Star Talents du sud" url="http://listen.radioking.com/radio/11602/stream/49331"/>
 		<bookmark name="Radio Star Hits" url="http://listen.radioking.com/radio/11598/stream/49322"/>
-		<bookmark name="Radio Star Rap Marseille" url="http://s1m2-ice-rk.dc3.icreo.pro/radio/11600/stream/49328"/>
+		<bookmark name="Radio Star Rap Marseille" url="http://listen.radioking.com/radio/11600/stream/49328"/>
 		<bookmark name="Radio Star Night" url="http://listen.radioking.com/radio/11607/stream/49340"/>
+		<bookmark name="Radio Star Istres" url="http://listen.radioking.com/radio/11599/stream/49325"/>
 		<bookmark name="Radio Star La Ciotat" url="http://listen.radioking.com/radio/11604/stream/49334"/>
 		<bookmark name="Radio Star Marignane" url="http://listen.radioking.com/radio/11609/stream/49343"/>
-		<bookmark name="Radio Star Sun" url="http://listen.radioking.com/radio/11606/stream/49337"/>
-		<bookmark name="Radio Star Istres" url="http://listen.radioking.com/radio/11599/stream/49325"/>		
+		<bookmark name="Radio Star Sun" url="http://listen.radioking.com/radio/11606/stream/49337"/>	
 	</group>
 
 	<group name="Swigg + Generation">
@@ -650,22 +647,26 @@
 		<bookmark name="Swigg Love" url="http://icepe14.infomaniak.ch/adolove-128.mp3"/>
 		<bookmark name="Swigg rnb us" url="http://icepe14.infomaniak.ch/adornbus-128.mp3"/>
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
+		<bookmark name="Generation 2000" url="http://generations-2000.ice.infomaniak.ch/generations-2000.mp3"/>
+		<bookmark name="Generation 90's" url="http://generations-90.ice.infomaniak.ch/generations-90.mp3"/>
+		<bookmark name="Generation Afrotrap" url="http://generations-wr001.ice.infomaniak.ch/generations-wr001.mp3"/>
 		<bookmark name="Generation Booba" url="http://aise6.infomaniak.ch/generations-booba.mp3"/>
 		<bookmark name="Generation EMBN" url="http://aise6.infomaniak.ch/gene-wr10.mp3"/>
-		<bookmark name="Generation freestyle" url="http://aise6.infomaniak.ch/gene-wr09.mp3"/>
+		<bookmark name="Generation freestyle" url=""/>
 		<bookmark name="Generation funk" url="http://aise6.infomaniak.ch/gene-wr05.mp3"/>
 		<bookmark name="Generation girl" url="http://aise6.infomaniak.ch/generations-girls.mp3"/>
+		<bookmark name="Generation hype" url="http://generations-wr002.ice.infomaniak.ch/generations-wr002.mp3"/>
+		<bookmark name="Generation Jul" url="http://generations-jul.ice.infomaniak.ch/generations-jul.mp3"/>
 		<bookmark name="Generation la fouine" url="http://aise6.infomaniak.ch/generations-la-fouine.mp3"/>
 		<bookmark name="Generation new jack" url="http://aise6.infomaniak.ch/generations-njs.mp3"/>
-		<bookmark name="Generation FR" url="http://ice37.infomaniak.ch/gene-wr09.mp3"/>
 		<bookmark name="Generation rnb" url="http://aise6.infomaniak.ch/generationfm-slowjam-high.mp3"/>
 		<bookmark name="Generation rnb gold" url="http://aise6.infomaniak.ch/generations-rnb-gold.mp3"/>
+		<bookmark name="Generation raggaeton" url="http://aise6.infomaniak.ch/generations-rgton.mp3"/>
 		<bookmark name="Generation rap FR" url="http://aise6.infomaniak.ch/generationfm-rap-high.mp3"/>
 		<bookmark name="Generation rap FR gold" url="http://aise6.infomaniak.ch/gene-wr06.mp3"/>
 		<bookmark name="Generation rap US" url="http://aise6.infomaniak.ch/generationfm-underground-high.mp3"/>
 		<bookmark name="Generation rap US gold" url="http://aise6.infomaniak.ch/gene-wr08.mp3"/>
 		<bookmark name="Generation reggae" url="http://aise7.infomaniak.ch/generations-caraibes-high.mp3"/>
-		<bookmark name="Generation reggaeton" url="http://aise6.infomaniak.ch/generations-rgton.mp3"/>
 		<bookmark name="Generation Rohff" url="http://aise6.infomaniak.ch/generation-rohff.mp3"/>
 		<bookmark name="Generation slowjam" url="http://aise6.infomaniak.ch/gene-wr11.mp3"/>
 		<bookmark name="Generation soul" url="http://aise9.infomaniak.ch/gene-wr07.mp3"/>
@@ -680,7 +681,7 @@
 		<bookmark name="Urban Hit rap FR" url="http://icepe14.infomaniak.ch/urbanhitrapfr-128.mp3"/>
 		<bookmark name="Urban Hit US" url="http://icepe14.infomaniak.ch/urbanhitus-128.mp3"/>
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
-		<bookmark name="BlackBox rap FR" url="http://icepe6.infomaniak.ch/blackboxrapfr-128.mp3"/>
+		<bookmark name="BlackBox rap FR" url="http://broadcast.infomaniak.net/blackboxrapfr-128.mp3"/>
 		<bookmark name="BlackBox rap US" url="http://icepe6.infomaniak.ch/blackboxrapus-128.mp3"/>
 		<bookmark name="BlackBox reggaeton" url="http://icepe6.infomaniak.ch/blackboxreggaeton-128.mp3"/>
 		<bookmark name="BlackBox work" url="http://icepe6.infomaniak.ch/blackboxwork-128.mp3"/>
@@ -689,7 +690,7 @@
 		<bookmark name="BlackBox dancehall" url="http://icepe6.infomaniak.ch/blackboxdancehall-128.mp3"/>
 		<bookmark name="BlackBox kizomba" url="http://icepe6.infomaniak.ch/blackboxdancehall-128.mp3"/>
 		<bookmark name="BlackBox latina" url="http://icepe6.infomaniak.ch/blackboxlatina-128.mp3"/>
-		<bookmark name="BlackBox love" url="http://icepe6.infomaniak.ch/blackboxlove-128.mp3"/>
+		<bookmark name="BlackBox love" url="http://blackboxlove.bcast.infomaniak.ch/blackboxlove-128.mp3"/>
 		<bookmark name="BlackBox rnb US" url="http://icepe6.infomaniak.ch/blackboxrnbus-128.mp3"/>
 	</group>
 
