@@ -348,7 +348,7 @@
 		<bookmark name="Chérie Scorpion" url="/fr/56963/mp3_128.mp3?origine=mytuner"/>
 		<bookmark name="Chérie Sweet Home" url="http://cdn.nrjaudio.fm/adwz1/fr/30289/mp3_128.mp3"/>
 		<bookmark name="Chérie Zen" url="http://cdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3"/>
-		</group>
+	</group>
 
 	<group name="Nostalgie">
 		<bookmark name="Nostalgie 80 Les N°1" url="http://cdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3?origine=fluxradios"/>
@@ -373,13 +373,11 @@
 		<bookmark name="Nostalgie Légendes" url="http://cdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3"/>
 		<bookmark name="Nostalgie Les Plus Grands Slows" url="http://cdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3"/>
 		<bookmark name="Nostalgie Les plus grands tubes Français" url="http://cdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3"/>
-		<bookmark name="Nostalgie Maxi 45T Funk" url="http://cdn.nrjaudio.fm/adwz1/fr/56937/mp3_128.mp3?origine=fluxradios
-       Informations techniques"/>
+		<bookmark name="Nostalgie Maxi 45T Funk" url="http://cdn.nrjaudio.fm/adwz1/fr/56937/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="Nostalgie Mini Mix de Max" url="http://cdn.nrjaudio.fm/adwz1/fr/56955/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="Nostalgie New Wave" url="http://cdn.nrjaudio.fm/adwz1/fr/30703/mp3_128.mp3"/>
 		<bookmark name="Nostalgie Poètes" url="http://cdn.nrjaudio.fm/adwz1/fr/30619/mp3_128.mp3"/>
-		<bookmark name="Nostalgie Pop Rock 80" url="http://cdn.nrjaudio.fm/adwz1/fr/56718/mp3_128.mp3?origine=fluxradios
-"/>
+		<bookmark name="Nostalgie Pop Rock 80" url="http://cdn.nrjaudio.fm/adwz1/fr/56718/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="Nostalgie Rock" url="http://cdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3"/>
 		<bookmark name="Nostalgie Route 66" url="http://cdn.nrjaudio.fm/adwz1/fr/56040/mp3_128.mp3"/>
 		<bookmark name="Nostalgie Saturday Night" url="http://cdn.nrjaudio.fm/adwz1/fr/30773/mp3_128.mp3"/>
@@ -781,7 +779,6 @@
 		<bookmark name="Sector Progressive" url="http://89.223.45.5:8000/progressive-flac"/>
 		<bookmark name="Sector Space" url="http://89.223.45.5:8000/space-flac"/>
 		<bookmark name="The cheese" url="http://thecheese.ddns.net:8004/stream.m3u"/>
-
 	</group>
 </group>
 </bookmarks>
