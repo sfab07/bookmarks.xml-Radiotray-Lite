@@ -6,9 +6,8 @@
 		<bookmark name="Nostalgie" url="http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="Chante France" url="http://87-98-159-156.ovh.net/Chante_France"/>
 		<bookmark name="Rire et chansons" url="http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"/>
-		<bookmark name="FG House Chic" url="http://radiofg.impek.com/fgc.mp3"/>
+		<bookmark name="FG Underground" url="http://radiofg.impek.com/ufg"/>
 		<bookmark name="Swigg Classic" url="http://icepe14.infomaniak.ch/adoclassic-128.mp3"/>
-		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
 
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 
@@ -25,7 +24,7 @@
 		<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
 		<bookmark name="BFM Business" url="http://chai5she.cdn.dvmr.fr/bfmbusiness"/>
 		<bookmark name="Radio Classique" url="http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"/>
-		<bookmark name="Europe 1" url="http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"/>
+		<bookmark name="Europe 1" url="http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3"/>
 		<bookmark name="RTL" url="http://streaming.radio.rtl.fr/rtl-1-48-192"/>
 		<bookmark name="RMC" url="http://chai5she.cdn.dvmr.fr/rmcinfo"/>
 		<bookmark name="France Inter" url="http://direct.franceinter.fr/live/franceinter-midfi.mp3"/>
@@ -93,7 +92,7 @@
 		<bookmark name="Puls Club" url="http://www.pulsradio.com/club/pls/mxradio.m3u"/>
 		<bookmark name="Puls Lounge" url="http://www.pulsradio.com/pls/lounge.m3u"/>
 		<bookmark name="Puls Hits" url="http://www.pulsradio.com/hits/hitparty-adsl.m3u"/>
-		<bookmark name="Puls 80" url="http://www.pulsradio.com/80/stream192k.m3u"/>
+		<bookmark name="Puls 80" url="http://www.pulsradio.com/pls/pulsV80-adsl.m3u"/>
 		<bookmark name="Puls 90" url="http://www.pulsradio.com/pls/pulsV90-adsl.m3u"/>
 		<bookmark name="Puls Hard" url="http://www.pulsradio.com/pls/pulshard-adsl.m3u"/>
 	<bookmark name="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]" url="[separator-ac3fe9ec-f485-46d2-a020-ab88ce2304ca]"/>
@@ -158,6 +157,9 @@
 		<bookmark name="Radio Compile" url="http://listen.radionomy.com/radio--compile.m3u"/>
 		<bookmark name="RadionoMix" url="http://listen.radionomy.com/radionomix.m3u"/>
 		<bookmark name="Sensuelle Radio" url="http://188.165.215.158:9169"/>
+		<bookmark name="Alouette" url="http://alouette.ice.infomaniak.ch/alouette-high.mp3"/>
+		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
+
 	</group>
 
 	<group name="FG + Espace + Prysm">
