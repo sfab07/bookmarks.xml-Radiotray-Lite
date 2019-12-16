@@ -116,24 +116,6 @@
 
 	</group>
 
-	<group name="F3 + 100% + Forum">
-		<bookmark name="Fréquence 3 Gold" url="http://rod.frequence3.net/frequence3ac-256.mp3.m3u"/>
-		<bookmark name="Fréquence 3 Urban" url="http://rod.frequence3.net/frequence3urban-256.mp3.m3u"/>
-		<bookmark name="100% 80s" url="http://icepe14.infomaniak.ch/100radio-80-128.mp3"/>
-		<bookmark name="100% 90s" url="http://icepe14.infomaniak.ch/100radio-90-64.aac"/>
-		<bookmark name="100% hit" url="http://icepe14.infomaniak.ch/100radio-hit-128.mp3"/>
-		<bookmark name="100% love" url="http://icepe14.infomaniak.ch/100radio-love-128.mp3"/>
-		<bookmark name="100% souvenirs" url="http://icepe14.infomaniak.ch/100radio-souvenirs-128.mp3"/>
-		<bookmark name="Forum 70s" url="http://icepe14.infomaniak.ch/forum70s.mp3"/>
-		<bookmark name="Forum 80s" url="http://icepe1.infomaniak.ch/forum80s.mp3"/>
-		<bookmark name="Forum 90s" url="http://icepe14.infomaniak.ch/forum90s.mp3"/>
-		<bookmark name="Forum work" url="http://icepe14.infomaniak.ch/forumwork.mp3"/>
-		<bookmark name="Forum live" url="http://icepe14.infomaniak.ch/forumlive.mp3"/>
-		<bookmark name="Forum love" url="http://icepe14.infomaniak.ch/forumlove.mp3"/>
-		<bookmark name="Forum 2000" url="http://icepe14.infomaniak.ch/forum2000.mp3"/>
-		<bookmark name="Forum en francais" url="http://icepe14.infomaniak.ch/forumenfrancais-128.mp3"/>
-	</group>
-
 	<group name="Radionomy">
 		<bookmark name="ABC Lounge" url="http://listen.radionomy.com/abc-lounge.m3u"/>
 		<bookmark name="ABC Ambient And Lounge" url="http://listen.radionomy.com/ambient-and-lounge.m3u"/>
@@ -618,7 +600,17 @@
 		<bookmark name="NRJ Zouk" url="http://cdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3"/>
 	</group>
 
-	<group name="Virgin + Scoop">
+	<group name="F3 + Forum + Virgin + Scoop">
+		<bookmark name="Fréquence 3 Gold" url="http://rod.frequence3.net/frequence3ac-256.mp3.m3u"/>
+		<bookmark name="Fréquence 3 Urban" url="http://rod.frequence3.net/frequence3urban-256.mp3.m3u"/>
+		<bookmark name="Forum 70s" url="http://icepe14.infomaniak.ch/forum70s.mp3"/>
+		<bookmark name="Forum 80s" url="http://icepe1.infomaniak.ch/forum80s.mp3"/>
+		<bookmark name="Forum 90s" url="http://icepe14.infomaniak.ch/forum90s.mp3"/>
+		<bookmark name="Forum work" url="http://icepe14.infomaniak.ch/forumwork.mp3"/>
+		<bookmark name="Forum live" url="http://icepe14.infomaniak.ch/forumlive.mp3"/>
+		<bookmark name="Forum love" url="http://icepe14.infomaniak.ch/forumlove.mp3"/>
+		<bookmark name="Forum 2000" url="http://icepe14.infomaniak.ch/forum2000.mp3"/>
+		<bookmark name="Forum en francais" url="http://icepe14.infomaniak.ch/forumenfrancais-128.mp3"/>
 		<bookmark name="Virgin Classics" url="http://vr-wr2-mp3-128.scdn.arkena.com/virginradio.mp3"/>
 		<bookmark name="Virgin Electro Shock" url="http://vr-wr3-mp3-128.scdn.arkena.com/virginradio.mp3"/>
 		<bookmark name="Virgin Hit" url="http://vr-wr4-mp3-128.scdn.arkena.com/virginradio.mp3"/>
@@ -643,7 +635,7 @@
 		<bookmark name="Scoop Run" url="https://scooprun.ice.infomaniak.ch/radioscoop-run-128.mp3"/>
 	</group>
 
-	<group name="Futura + Vibration + Wit">
+	<group name="Futura + Vibration + 100% + Wit">
 		<bookmark name="Futuradio Dance" url="http://ice1.impek.com/futuradiosdance-128"/>
 		<bookmark name="Futuradio Hits" url="http://ice1.impek.com/futuradios-128"/>
 		<bookmark name="Futuradio Pop & Sweet" url="http://ice1.impek.com/futuradiospopsweet-128"/>
@@ -662,6 +654,11 @@
 		<bookmark name="Vibration poprock" url="http://live-reflector.infomaniak.ch/vibrationpoprock-high.mp3"/>
 		<bookmark name="Vibration work" url="http://live-reflector.infomaniak.ch/vibrationwork.aac"/>
 		<bookmark name="Vibration en français" url="https://vibrationenfrancais.ice.infomaniak.ch/vibrationenfrancais-128.mp3"/>
+		<bookmark name="100% 80s" url="http://icepe14.infomaniak.ch/100radio-80-128.mp3"/>
+		<bookmark name="100% 90s" url="http://icepe14.infomaniak.ch/100radio-90-64.aac"/>
+		<bookmark name="100% hit" url="http://icepe14.infomaniak.ch/100radio-hit-128.mp3"/>
+		<bookmark name="100% love" url="http://icepe14.infomaniak.ch/100radio-love-128.mp3"/>
+		<bookmark name="100% souvenirs" url="http://icepe14.infomaniak.ch/100radio-souvenirs-128.mp3"/>
 		<bookmark name="Wit" url="http://icepe14.infomaniak.ch/start-witfm-high.mp3"/>
 		<bookmark name="Wit 2000" url="http://icepe14.infomaniak.ch/wit2000.mp3"/>
 		<bookmark name="Wit 80" url="http://icepe14-2.infomaniak.ch/wit80s.mp3"/>
@@ -674,7 +671,7 @@
 		<bookmark name="Wit en francais" url="http://icepe14.infomaniak.ch/witenfrancais-128.mp3"/>
 	</group>
 
-	<group name="Swigg + Generation + Le Mouv'">
+	<group name="Swigg + Generation">
 		<bookmark name="Swigg" url="http://icepe14.infomaniak.ch/start-adofm-high.mp3"/>
 		<bookmark name="Swigg Rap FR" url="http://icepe14.infomaniak.ch/adorapfr-128.mp3"/>
 		<bookmark name="Swigg Rap US" url="http://icepe14.infomaniak.ch/adorapus-128.mp3"/>
