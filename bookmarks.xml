@@ -118,7 +118,7 @@
 
 	</group>
 
-	<group name="Radionomy">
+	<group name="Shoutcast + autres">
 		<bookmark name="ABC Lounge" url="http://listen.radionomy.com/abc-lounge.m3u"/>
 		<bookmark name="ABC Ambient And Lounge" url="http://listen.radionomy.com/ambient-and-lounge.m3u"/>
 		<bookmark name="ABC Dance House" url="http://listen.radionomy.com/abcdancehouse.m3u"/>
@@ -129,7 +129,7 @@
 		<bookmark name="EuroDance 90" url="http://listen.radionomy.com/eurodance-90.m3u"/>
 		<bookmark name="Ledjam" url="http://www.ledjamradio.com/sound"/>
 		<bookmark name="F2X" url="http://listen.radionomy.com/f2x-radio"/>
-		<bookmark name="Hlove" url="http://streaming.radionomy.com/HloveFR"/>
+		<bookmark name="Jamendo Lounge" url="http://streaming.radionomy.com/HloveFR"/>
 		<bookmark name="Insidedancefloor La Webradio" url="http://listen.radionomy.com/insidedancefloor.m3u"/>
 		<bookmark name="La Cible Radio" url="http://listen.radionomy.com/la-cible-radio.m3u"/>
 		<bookmark name="La Cible 90" url="http://listen.radionomy.com/cible90"/>
@@ -137,7 +137,7 @@
 		<bookmark name="Radio Compile" url="http://listen.radionomy.com/radio--compile.m3u"/>
 		<bookmark name="RadionoMix" url="http://listen.radionomy.com/radionomix.m3u"/>
 		<bookmark name="Sensuelle Radio" url="http://188.165.215.158:9169"/>
-		<bookmark name="Alouette" url="http://alouette.ice.infomaniak.ch/alouette-high.mp3"/>
+		<bookmark name="Sud radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
 		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
 
 	</group>
@@ -469,7 +469,10 @@
 	<group name="NRJ 1">
 		<bookmark name="NRJ Acoustic Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/30157/mp3_128.mp3"/>
 		<bookmark name="NRJ All Hits All Styles" url="http://cdn.nrjaudio.fm/adwz1/fr/31149/mp3_128.mp3"/>
+		<bookmark name="NRJ Artiste masculin francophone" url="https://scdn.nrjaudio.fm/adwz1/fr/56988/aac_64.mp3"/>
 		<bookmark name="NRJ Artiste masculin international" url="https://scdn.nrjaudio.fm/adwz1/fr/56989/aac_64.mp3"/>
+		<bookmark name="NRJ Artiste féminine francaise" url="https://scdn.nrjaudio.fm/adwz1/fr/56991/aac_64.mp3"/>
+		<bookmark name="NRJ Artiste féminine international" url="https://scdn.nrjaudio.fm/adwz1/fr/56987/aac_64.mp3"/>
 		<bookmark name="NRJ At Home" url="http://cdn.nrjaudio.fm/adwz1/fr/31011/mp3_128.mp3"/>
 		<bookmark name="NRJ At Work" url="http://cdn.nrjaudio.fm/adwz1/fr/30033/mp3_128.mp3"/>
 		<bookmark name="NRJ Back to school 2019" url="http://cdn.nrjaudio.fm/adwz1/fr/31089/mp3_128.mp3?origine=fluxradios"/>
@@ -478,16 +481,19 @@
 		<bookmark name="NRJ Best Of Big Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/56378/mp3_128.mp3"/>
 		<bookmark name="NRJ Better Days" url="http://cdn.nrjaudio.fm/adwz1/fr/56888/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Broken Heart" url="http://cdn.nrjaudio.fm/adwz1/fr/31075/mp3_128.mp3"/>
+		<bookmark name="NRJ BTS" url="https://scdn.nrjaudio.fm/audio1/fr/56365/aac_64.mp3"/>
 		<bookmark name="NRJ By Jaymax" url="http://cdn.nrjaudio.fm/adwz1/fr/57019/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ By Petit Paume" url="http://cdn.nrjaudio.fm/adwz1/fr/56060/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ C'Cauet" url="http://cdn.nrjaudio.fm/adwz1/fr/30097/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Caliente" url="http://cdn.nrjaudio.fm/adwz1/fr/56329/mp3_128.mp3"/>
 		<bookmark name="NRJ Chanson francaise" url="https://scdn.nrjaudio.fm/adwz1/fr/56994/aac_64.mp3"/>
+		<bookmark name="NRJ Chanson internationale" url="https://scdn.nrjaudio.fm/adwz1/fr/56992/aac_64.mp3"/>
 		<bookmark name="NRJ Chill" url="http://cdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3"/>
 		<bookmark name="NRJ Classic Rap FR" url="http://cdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3"/>
 		<bookmark name="NRJ Classic Rap US" url="http://cdn.nrjaudio.fm/adwz1/fr/31093/mp3_128.mp3"/>
 		<bookmark name="NRJ Classic RNB" url="http://cdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3"/>
 		<bookmark name="NRJ Classic Rock" url="http://cdn.nrjaudio.fm/adwz1/fr/31097/mp3_128.mp3"/>
+		<bookmark name="NRJ Clip de l'année" url="https://scdn.nrjaudio.fm/adwz1/fr/56995/aac_64.mp3"/>
 		<bookmark name="NRJ Club Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/31073/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Clubbin" url="http://cdn.nrjaudio.fm/adwz1/fr/30017/mp3_128.mp3"/>
 		<bookmark name="NRJ Dance" url="http://cdn.nrjaudio.fm/adwz1/fr/30013/mp3_128.mp3"/>
@@ -495,6 +501,7 @@
 		<bookmark name="NRJ Dance Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/31131/mp3_128.mp3"/>
 		<bookmark name="NRJ Deep House" url="http://cdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3"/>
 		<bookmark name="NRJ Discover" url="http://cdn.nrjaudio.fm/adwz1/fr/30137/mp3_128.mp3"/>
+		<bookmark name="NRJ DJ de l'année" url="https://scdn.nrjaudio.fm/adwz1/fr/56993/aac_64.mp3"/>
 		<bookmark name="NRJ Douche Tonique" url="http://cdn.nrjaudio.fm/adwz1/fr/56962/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ EDM" url="http://cdn.nrjaudio.fm/adwz1/fr/31419/mp3_128.mp3"/>
 		<bookmark name="NRJ Electro" url="http://cdn.nrjaudio.fm/adwz1/fr/55135/mp3_128.mp3?origine=fluxradios"/>
@@ -515,7 +522,9 @@
 		<bookmark name="NRJ Futurs Hits 2020" url="http://cdn.nrjaudio.fm/adwz1/fr/56732/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Gangsta Rap" url="http://cdn.nrjaudio.fm/adwz1/fr/31081/mp3_128.mp3"/>
 		<bookmark name="NRJ Garden Party" url="http://cdn.nrjaudio.fm/adwz1/fr/56960/mp3_128.mp3?origine=fluxradios"/>
-		<bookmark name="NRJ Good Night" url="ttp://cdn.nrjaudio.fm/adwz1/fr/31051/mp3_128.mp3"/>
+		<bookmark name="NRJ Good Night" url="http://cdn.nrjaudio.fm/adwz1/fr/31051/mp3_128.mp3"/>
+		<bookmark name="NRJ Groupe duo francophone" url="https://scdn.nrjaudio.fm/adwz1/fr/56986/aac_64.mp3"/>
+		<bookmark name="NRJ Groupe duo internationale" url="https://scdn.nrjaudio.fm/adwz1/fr/56987/aac_64.mp3"/>
 		<bookmark name="NRJ Happy Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/55127/mp3_128.mp3"/>
 		<bookmark name="NRJ Hardstyle" url="http://cdn.nrjaudio.fm/adwz1/fr/56708/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Hip Hop RNB Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3"/>
@@ -524,10 +533,12 @@
 		<bookmark name="NRJ Hits 2018" url="http://cdn.nrjaudio.fm/adwz1/fr/56348/mp3_128.mp3"/>
 		<bookmark name="NRJ Hits 80" url="http://cdn.nrjaudio.fm/adwz1/fr/55548/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Hits 90" url="http://cdn.nrjaudio.fm/adwz1/fr/55274/mp3_128.mp3"/>
+		<bookmark name="NRJ Hits 90 by Play" url="https://scdn.nrjaudio.fm/adwz1/fr/57056/aac_64.mp3"/>
 		<bookmark name="NRJ Hits For Running" url="http://cdn.nrjaudio.fm/adwz1/fr/30057/mp3_128.mp3"/>
 		<bookmark name="NRJ Hits Of The Month" url="http://cdn.nrjaudio.fm/adwz1/fr/31171/mp3_128.mp3"/>
 		<bookmark name="NRJ Hits Of The Week" url="http://cdn.nrjaudio.fm/adwz1/fr/31153/mp3_128.mp3"/>
 		<bookmark name="NRJ Hits Remix" url="http://cdn.nrjaudio.fm/adwz1/fr/31019/mp3_128.mp3"/>
+		<bookmark name="NRJ Jul" url="https://scdn.nrjaudio.fm/audio1/fr/31495/aac_64.mp3"/>
 		<bookmark name="NRJ Kids" url="http://cdn.nrjaudio.fm/adwz1/fr/30155/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Kitch 80" url="http://cdn.nrjaudio.fm/adwz1/fr/56777/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Kizomba" url="http://cdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3"/>
@@ -555,12 +566,14 @@
 		<bookmark name="NRJ Les Hits de L'Automne" url="http://cdn.nrjaudio.fm/adwz1/fr/56979/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Les Hits de L'Hiver" url="https://scdn.nrjaudio.fm/adwz1/fr/56979/aac_64.mp3"/>
 		<bookmark name="NRJ Les Hits de Tous Vos Étés" url="http://cdn.nrjaudio.fm/adwz1/fr/56646/mp3_128.mp3?origine=fluxradios"/>
+		<bookmark name="NRJ Le Hit Youtube" url="https://scdn.nrjaudio.fm/audio1/fr/31087/aac_64.mp3"/>
 		<bookmark name="NRJ Les Hits du Zodiaque" url="https://scdn.nrjaudio.fm/adwz1/fr/56963/aac_64.mp3"/>
 		<bookmark name="NRJ Les Hits Qui Font Danser" url="http://cdn.nrjaudio.fm/adwz1/fr/56902/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Lounge" url="http://cdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3"/>
 		<bookmark name="NRJ Love" url="http://cdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3"/>
 		<bookmark name="NRJ Made In France" url="http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3"/>
 		<bookmark name="NRJ Manu dans le 6-9" url="http://cdn.nrjaudio.fm/adwz1/fr/30103/mp3_128.mp3"/>
+		<bookmark name="NRJ Maitre Gims" url="https://scdn.nrjaudio.fm/audio1/fr/31297/aac_64.mp3"/>
 		<bookmark name="NRJ Mes Hits du Moment" url="http://cdn.nrjaudio.fm/adwz1/fr/56556/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Metal" url="http://cdn.nrjaudio.fm/adwz1/fr/30079/mp3_128.mp3"/>
 		<bookmark name="NRJ Mikl" url="http://cdn.nrjaudio.fm/adwz1/fr/55178/mp3_128.mp3"/>
@@ -608,7 +621,9 @@
 		<bookmark name="NRJ Reggaeton" url="http://cdn.nrjaudio.fm/adwz1/fr/31023/mp3_128.mp3"/>
 		<bookmark name="NRJ Relax" url="http://cdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3"/>
 		<bookmark name="NRJ Remember That" url="http://cdn.nrjaudio.fm/adwz1/fr/56388/mp3_128.mp3"/>
+		<bookmark name="NRJ Révélation francaise" url="https://scdn.nrjaudio.fm/adwz1/fr/56984/aac_64.mp3"/>
 		<bookmark name="NRJ Révélation internationale" url="https://scdn.nrjaudio.fm/adwz1/fr/56985/aac_64.mp3"/>
+		<bookmark name="NRJ Rihanna hits" url="https://scdn.nrjaudio.fm/audio1/fr/30029/aac_64.mp3"/>
 		<bookmark name="NRJ RNB" url="http://cdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3"/>
 		<bookmark name="NRJ RNB FR" url="http://cdn.nrjaudio.fm/adwz1/fr/30171/mp3_128.mp3"/>
 		<bookmark name="NRJ RNB Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/31085/mp3_128.mp3"/>
@@ -616,6 +631,7 @@
 		<bookmark name="NRJ Romantic" url="http://cdn.nrjaudio.fm/adwz1/fr/30191/mp3_128.mp3"/>
 		<bookmark name="NRJ Sentimental" url="http://cdn.nrjaudio.fm/adwz1/fr/31277/mp3_128.mp3"/>
 		<bookmark name="NRJ Sexy" url="http://cdn.nrjaudio.fm/adwz1/fr/55126/mp3_128.mp3"/>
+		<bookmark name="NRJ Soprano" url="https://scdn.nrjaudio.fm/audio1/fr/31473/aac_64.mp3"/>
 		<bookmark name="NRJ Taylor Swift" url="http://cdn.nrjaudio.fm/adwz1/fr/31187/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Techno Parade" url="http://cdn.nrjaudio.fm/adwz1/fr/30177/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Techno Story" url="http://cdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?origine=fluxradios"/>
@@ -626,7 +642,7 @@
 		<bookmark name="NRJ Tous Les Hits Numéro 1" url="http://cdn.nrjaudio.fm/adwz1/fr/56770/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Urban Hits" url="http://cdn.nrjaudio.fm/adwz1/fr/30099/mp3_128.mp3"/>
 		<bookmark name="NRJ US Top 40" url="http://cdn.nrjaudio.fm/adwz1/fr/31513/mp3_128.mp3"/>
-		<bookmark name="NRJ Variete Française" url="http://cdn.nrjaudio.fm/adwz1/fr/55684/mp3_128.mp3"/>
+		<bookmark name="NRJ Varité Française" url="http://cdn.nrjaudio.fm/adwz1/fr/55684/mp3_128.mp3"/>
 		<bookmark name="NRJ Wake Up Playlist" url="http://cdn.nrjaudio.fm/adwz1/fr/30113/mp3_128.mp3"/>
 		<bookmark name="NRJ Waze" url="http://cdn.nrjaudio.fm/audio1/fr/56897/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="NRJ Zen" url="http://cdn.nrjaudio.fm/adwz1/fr/56723/mp3_128.mp3?origine=fluxradios"/>
