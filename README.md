@@ -26,5 +26,3 @@ https://forum.ubuntu-fr.org/viewtopic.php?id=547881
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5204232/51091209-ce428300-1787-11e9-8e64-3b9eb69cdb78.png" width="350"/>
 </p>
-
-Afin de vérifier les liens mort j'utilise Xenu's Link Sleuth : http://home.snafu.de/tilman/xenulink.html après conversion avec URLlinks.sh 
