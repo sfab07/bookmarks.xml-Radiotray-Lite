@@ -116,30 +116,6 @@
 		<bookmark name="Hotmix VIP" url="http://streamingads.hotmixradio.fm/hotmixradio-vip-64.mp3"/>
 	</group>
 
-	<group name="Shoutcast + autres">
-		<bookmark name="ABC Lounge" url="http://listen.radionomy.com/abc-lounge.m3u"/>
-		<bookmark name="ABC Ambient And Lounge" url="http://listen.radionomy.com/ambient-and-lounge.m3u"/>
-		<bookmark name="ABC Dance House" url="http://listen.radionomy.com/abcdancehouse.m3u"/>
-		<bookmark name="ABC Hits Music" url="http://listen.radionomy.com/abc-hits-music.m3u"/>
-		<bookmark name="ABC Disco Funk" url="http://listen.radionomy.com/abc-disco-funk.m3u"/>
-		<bookmark name="ABC Dance" url="http://listen.radionomy.com/abc-dance.m3u"/>
-		<bookmark name="ABC Dance Gold" url="http://listen.radionomy.com/abcdancegold.m3u"/>
-		<bookmark name="EuroDance 90" url="http://listen.radionomy.com/eurodance-90.m3u"/>
-		<bookmark name="Ledjam" url="http://www.ledjamradio.com/sound"/>
-		<bookmark name="F2X" url="http://listen.radionomy.com/f2x-radio"/>
-		<bookmark name="Jamendo Lounge" url="http://streaming.radionomy.com/HloveFR"/>
-		<bookmark name="Insidedancefloor La Webradio" url="http://listen.radionomy.com/insidedancefloor.m3u"/>
-		<bookmark name="La Cible Radio" url="http://listen.radionomy.com/la-cible-radio.m3u"/>
-		<bookmark name="La Cible 90" url="http://listen.radionomy.com/cible90"/>
-		<bookmark name="pinealtunes" url="http://listen.radionomy.com/pinealtunes.m3u"/>
-		<bookmark name="Radio Compile" url="http://listen.radionomy.com/radio--compile.m3u"/>
-		<bookmark name="RadionoMix" url="http://listen.radionomy.com/radionomix.m3u"/>
-		<bookmark name="Sensuelle Radio" url="http://188.165.215.158:9169"/>
-		<bookmark name="Sud radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
-		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
-
-	</group>
-
 	<group name="FG + Espace + Prysm">
 		<bookmark name="FG" url="http://radiofg.impek.com/fg.mp3"/>
 		<bookmark name="FG chic" url="http://radiofg.impek.com/fgc.mp3"/>
@@ -176,7 +152,12 @@
 		<bookmark name="ZeMixx Radio by Joachim Garraud" url="http://listen.shoutcast.com/zemixxradiobyjoachimgarraud.m3u"/>
 	</group>
 
-	<group name="Ouï FM">
+	<group name="Divers + Ouï FM">
+		<bookmark name="Alouette" url="https://alouette.ice.infomaniak.ch/alouette-high.mp3"/>
+		<bookmark name="Alouette nouveaux talents" url="https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3"/>
+		<bookmark name="Sensuelle Radio" url="http://188.165.215.158:9169"/>
+		<bookmark name="Sud radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
+		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
 		<bookmark name="Ouï FM" url="http://stream.ouifm.fr/ouifm-high.mp3"/>
 		<bookmark name="Ouï Acoustic" url="http://acoustic.stream.ouifm.fr/ouifmacoustic.mp3"/>
 		<bookmark name="Ouï Alternatif" url="http://alternatif.stream.ouifm.fr/ouifm2.mp3"/>
