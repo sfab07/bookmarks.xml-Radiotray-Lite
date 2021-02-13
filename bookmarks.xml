@@ -33,6 +33,11 @@
 		<bookmark name="FIP Nantes" url="http://direct.fipradio.fr/live/fipnantes-midfi.mp3"/>
 		<bookmark name="FIP  Strasbourg" url="http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3"/>
 		<bookmark name="Le Mouv" url="http://direct.mouv.fr/live/mouv-midfi.mp3"/>
+		<bookmark name="Alouette" url="https://alouette.ice.infomaniak.ch/alouette-high.mp3"/>
+		<bookmark name="Alouette nouveaux talents" url="https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3"/>
+		<bookmark name="Sensuelle Radio" url="http://188.165.215.158:9169"/>
+		<bookmark name="Sud radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
+		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
  	</group>
  
 	<group name="France Bleu">
@@ -152,12 +157,15 @@
 		<bookmark name="ZeMixx Radio by Joachim Garraud" url="http://listen.shoutcast.com/zemixxradiobyjoachimgarraud.m3u"/>
 	</group>
 
-	<group name="Divers + Ouï FM">
-		<bookmark name="Alouette" url="https://alouette.ice.infomaniak.ch/alouette-high.mp3"/>
-		<bookmark name="Alouette nouveaux talents" url="https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3"/>
-		<bookmark name="Sensuelle Radio" url="http://188.165.215.158:9169"/>
-		<bookmark name="Sud radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
-		<bookmark name="Teen Taal" url="http://s1.voscast.com:9484/"/>
+	<group name="Latina + Ouï FM">
+		<bookmark name="Latina" url="https://start-latina.ice.infomaniak.ch/start-latina-high.mp3"/>
+		<bookmark name="Latina fiesta" url="https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3"/>
+		<bookmark name="Latina salsa" url="https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3"/>
+		<bookmark name="Latina reggaeton" url="https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3"/>
+		<bookmark name="Latina love" url="https://latinalove.ice.infomaniak.ch/latinalove.mp3"/>
+		<bookmark name="Latina kizomba" url="https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3"/>
+		<bookmark name="Latina bachata" url="https://latinabachata.ice.infomaniak.ch/latinabachata.mp3"/>
+		<bookmark name="Latina work" url="https://latinawork.ice.infomaniak.ch/latinawork.mp3"/>
 		<bookmark name="Ouï FM" url="http://stream.ouifm.fr/ouifm-high.mp3"/>
 		<bookmark name="Ouï Acoustic" url="http://acoustic.stream.ouifm.fr/ouifmacoustic.mp3"/>
 		<bookmark name="Ouï Alternatif" url="http://alternatif.stream.ouifm.fr/ouifm2.mp3"/>
