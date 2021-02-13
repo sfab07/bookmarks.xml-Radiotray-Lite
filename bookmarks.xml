@@ -124,15 +124,16 @@
 	<group name="FG + Espace + Prysm">
 		<bookmark name="FG" url="http://radiofg.impek.com/fg.mp3"/>
 		<bookmark name="FG chic" url="http://radiofg.impek.com/fgc.mp3"/>
+		<bookmark name="FG Maxximum" url="https://radiofg.impek.com/max1.mp3"/>
 		<bookmark name="FG Deep Dance" url="http://radiofg.impek.com/fgd.mp3"/>
-		<bookmark name="FG Home Party" url="http://radiofg.impek.com/fg6.mp3"/>
-		<bookmark name="FG House Chic" url="http://radiofg.impek.com/fgc"/>
-		<bookmark name="FG Nomade" url="http://radiofg.impek.com/fg13"/>
-		<bookmark name="FG Non Stop" url="http://radiofg.impek.com/fge.mp3"/>
 		<bookmark name="FG Starter" url="http://radiofg.impek.com/fgv.mp3"/>
-		<bookmark name="FG Underground" url="http://radiofg.impek.com/ufg.mp3"/>
-		<bookmark name="FG USA time" url="http://radiofg.impek.com/fg12"/>
+		<bookmark name="FG at-work" url="https://radiofg.impek.com/fge.mp3"/>
+		<bookmark name="FG avant garde" url="https://radiofg.impek.com/ufg.mp3"/>
+		<bookmark name="FG mix" url="https://radiofg.impek.com/fg6.mp3"/>
+		<bookmark name="FG Nomade" url="http://radiofg.impek.com/fg13"/>
+		<bookmark name="FG Zen" url="https://radiofg.impek.com/fg17.mp3"/>
 		<bookmark name="FG xtra" url="http://radiofg.impek.com/fga"/>
+		<bookmark name="FG Maxximum 90" url="https://radiofg.impek.com/max2.mp3"/>
 		<bookmark name="Espace Lyon" url="http://radioespace.ice.infomaniak.ch/radioespace-high.mp3"/>
 		<bookmark name="Espace Club" url="http://espace100.ice.infomaniak.ch/espace100-high.mp3"/>
 		<bookmark name="Espace Dance 90" url="http://espace100.ice.infomaniak.ch/espace-disco-high.mp3"/>
@@ -420,9 +421,10 @@
 	</group>
 
 	<group name="F3 + Forum + Scoop">
-		<bookmark name="Fréquence 3 Gold" url="http://ice.stream.frequence3.net/frequence3ac-128.mp3"/>
-		<bookmark name="Fréquence 3 Urban" url="http://ice.stream.frequence3.net/frequence3urban-128.mp3"/>
-		<bookmark name="Fréquence 3 Xmas" url="http://ice.stream.frequence3.net/xmas-128.mp3"/>
+		<bookmark name="Fréquence 3 Dance" url="http://frequence3.net-radio.fr/frequence3dance.mp3"/>
+		<bookmark name="Fréquence 3 Gold" url="http://frequence3.net-radio.fr/frequence3gold.mp3"/>
+		<bookmark name="Fréquence 3 Urban" url="http://frequence3.net-radio.fr/frequence3urban-128.mp3"/>
+		<bookmark name="Fréquence 3 World" url="http://frequence3.net-radio.fr/frequence3world.mp3"/>
 		<bookmark name="Forum" url="https://start-forum.ice.infomaniak.ch/start-forum-high.mp3"/>
 		<bookmark name="Forum 70s" url="http://icepe14.infomaniak.ch/forum70s.mp3"/>
 		<bookmark name="Forum 80s" url="http://icepe1.infomaniak.ch/forum80s.mp3"/>
