@@ -778,13 +778,57 @@
 		<bookmark name="Radio 2.0" url="http://vps.radioduepuntozero.it:8000/stream.ogg.m3u"/>
 		<bookmark name="Radio Paradise" url="http://stream.radioparadise.com/flac"/>
 		<bookmark name="Radio Paradise Mellow" url="http://stream.radioparadise.com/mellow-flac"/>
+		<bookmark name="Radio Paradise Rock" url="http://stream.radioparadise.com/rock-flac"/>
+		<bookmark name="Radio Paradise Eclectic" url="http://stream.radioparadise.com/eclectic-flac"/>		
 		<bookmark name="Riverside radio" url="https://stream.and-stuff.nl:8443/live-riverside-flac"/>
 		<bookmark name="Sector 80s" url="http://89.223.45.5:8000/geny-flac"/>
 		<bookmark name="Sector 90s" url="http://89.223.45.5:8000/next-flac"/>
 		<bookmark name="Sector Classical" url="http://89.223.45.5:8000/nota-flac"/>
 		<bookmark name="Sector Progressive" url="http://89.223.45.5:8000/progressive-flac"/>
 		<bookmark name="Sector Space" url="http://89.223.45.5:8000/space-flac"/>
+		<bookmark name="Sector 10s" url="http://89.223.45.5:8000/zed-flac"/>
 		<bookmark name="The cheese" url="http://thecheese.ddns.net:8004/stream.m3u"/>
+		<bookmark name="Main Mix" url="http://stream.radioparadise.com/flac"/>
+		<bookmark name="Mellow Mix" url="http://stream.radioparadise.com/mellow-flac"/>
+		<bookmark name="Rock Mix" url="http://stream.radioparadise.com/rock-flac"/>
+		<bookmark name="World Electric Mix" url="http://stream.radioparadise.com/eclectic-flac"/>
+		<bookmark name="Experimental Pop 1" url="http://mscp2.live-streams.nl:8100/flac.flac"/>
+		<bookmark name="Experimental Pop 2" url="http://mediaserv30.live-streams.nl:8086/live"/>
+		<bookmark name="Experimental Latin" url="http://mediaserv33.live-streams.nl:8034/live"/>
+		<bookmark name="Experimental Jazz" url="http://mediaserv38.live-streams.nl:8006/live"/>
+		<bookmark name="Experimental Lounge" url="http://mediaserv33.live-streams.nl:8036/live"/>
+		<bookmark name="Experimental Gold" url="http://mediaserv30.live-streams.nl:8000/live"/>
+		<bookmark name="Experimental World" url="http://mediaserv38.live-streams.nl:8027/live"/>
+		<bookmark name="Experimental Classical" url="http://mediaserv30.live-streams.nl:8088/live"/>
+		<bookmark name="Experimental France" url="http://mediaserv21.live-streams.nl:8000/live"/>
+		<bookmark name="Mother Earth" url="http://icecast3.streamserver24.com:18800/motherearth"/>
+		<bookmark name="Sing sing" url="http://stream.sing-sing-bis.org:8000/singsingFlac"/>
+		<bookmark name="Sun radio" url="https://diffusion.lafrap.fr/sun.flac"/>
+		<bookmark name="95bfm" url="http://streams.95bfm.com/stream112"/>
+		<bookmark name="CRo Vltava" url="http://amp.cesnet.cz:8000/cro3.flac"/>
+		<bookmark name="CRo D-dur" url="http://amp.cesnet.cz:8000/cro-d-dur.flac"/>
+		<bookmark name="CRo Jazz" url="http://amp.cesnet.cz:8000/cro-jazz.flac"/>
+		<bookmark name="CRo Wave" url="http://amp.cesnet.cz:8000/cro-radio-wave.flac"/>
+		<bookmark name="Xradionl" url="http://amp.cesnet.cz:8000/cro3.flac"/>
+		<bookmark name="H2O" url="http://ice2.ikoula.net-radio.fr/h2oradio.flac"/>
+		<bookmark name="Hi online" url="http://mscp2.live-streams.nl:8100/flac.flac"/>
+		<bookmark name="Hitz983" url="https://cdn2.cloudrad.io/983flac/stream.flac/listen.m3u"/>
+		<bookmark name="Intense" url="https://secure.live-streams.nl/flac.flac"/>
+		<bookmark name="Knixx" url="https://s1.knixx.fm/dein_webradio_512.opus?611x4nv5tcs"/>
+		<bookmark name="Lucifer" url="http://gnoenet.nl/radio/8000/luciferflac.mp3"/>
+		<bookmark name="Mother earth" url="https://www.streamserver24.com/metafiles/motherearth.pls"/>
+		<bookmark name="Naim " url="http://mscp3.live-streams.nl:8360/flac.flac"/>
+		<bookmark name="Naim classical" url="http://mscp3.live-streams.nl:8250/class-flac.flac"/>
+		<bookmark name="Naim Jazz" url="http://mscp3.live-streams.nl:8340/jazz-flac.flac"/>
+		<bookmark name="Radio blues" url="https://streams.radiomast.io:80/radioblues-flac"/>
+		<bookmark name="Radio Kemonia" url="http://kemoniastreaming2.net:8060/stream"/>
+		<bookmark name="Sputnik" url="http://radiosputnik.nl:8002/flac"/>
+		<bookmark name="Rondo classic" url="http://rondo.iradio.fi:8000/klasupro.flac"/>
+		<bookmark name="Zog radio" url="http://icecast.zog.net.au:8000/source"/>
+		<bookmark name="Super stéréo" url="http://198.204.228.202:8160/flac"/>
+		<bookmark name="Super stéréo 2" url="http://198.204.228.202:8157/flac"/>
+		<bookmark name="Super stéréo 3" url="http://198.204.228.202:8539/flac"/>
+		<bookmark name="Super stéréo 4" url="http://198.204.228.202:8030/flac"/>
 	</group>
 </group>
 </bookmarks>
