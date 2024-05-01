@@ -9,8 +9,9 @@
 		<bookmark name="Rire et chansons" url="http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="RC Semoun" url="https://scdn.nrjaudio.fm/audio1/fr/30427/aac_64.mp3"/>
 		<bookmark name="FG" url="http://radiofg.impek.com/fg"/>
-		<bookmark name="FG avant garde" url="https://radiofg.impek.com/ufg.mp3"/>
-		<bookmark name="NRJ New Hits Friday" url="http://cdn.nrjaudio.fm/adwz1/fr/56230/mp3_128.mp3"/>
+		<bookmark name="Hits1" url="https://radio7.pro-fhi.net/radio/9006/hits1hd"/>	
+		<bookmark name="Wit latina" url="http://icepe14.infomaniak.ch/witlatina.mp3"/>
+		<bookmark name="Latina fiesta" url="https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3"/>
 		<bookmark name="Le Mouv" url="http://direct.mouv.fr/live/mouv-midfi.mp3"/>
 
 	<group name="Radios Nationales">
@@ -21,12 +22,12 @@
 		<bookmark name="Cherie Fm" url="http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios"/>
 		<bookmark name="RTL2" url="http://streaming.radio.rtl2.fr/rtl2-1-44-128"/>
 		<bookmark name="Sud Radio" url="http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"/>
-		<bookmark name="Virgin Radio" url="http://ais-live.cloud-services.paris:8000/virgin.mp3"/>
+		<bookmark name="Europe 2" url="http://europe2.lmn.fm/europe2.mp3 "/>
 		<bookmark name="Skyrock" url="http://icecast.skyrock.net/s/natio_mp3_128k"/>
 		<bookmark name="BFM" url="https://audio.bfmtv.com/bfmradio_128.mp3"/>
 		<bookmark name="BFM Business" url="http://bfmbusiness.bfmtv.com/bfmbradio-mp3"/>
 		<bookmark name="Radio Classique" url="http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"/>
-		<bookmark name="Europe 1" url="http://ais-live.cloud-services.paris:8000/europe1.mp3"/>
+		<bookmark name="Europe 1" url="https://stream.europe1.fr/europe1.aac "/>
 		<bookmark name="RTL" url="http://streaming.radio.rtl.fr/rtl-1-44-128"/>
 		<bookmark name="RMC" url="https://audio.bfmtv.com/rmcradio_128.mp3"/>
 		<bookmark name="France Inter" url="http://direct.franceinter.fr/live/franceinter-midfi.mp3"/>
@@ -103,31 +104,73 @@
 		<bookmark name="Puls 90" url="http://www.pulsradio.com/pls/pulsV90-adsl.m3u"/>
 		<bookmark name="Puls 2000" url="http://icecast.pulsradio.com:80/puls00HD.mp3"/>
 		<bookmark name="Puls Hard" url="http://www.pulsradio.com/pls/pulshard-adsl.m3u"/>
-		<bookmark name="Hotmix 80" url="http://streamingads.hotmixradio.fm/hotmixradio-80-64.mp3"/>
-		<bookmark name="Hotmix 90" url="http://streamingads.hotmixradio.fm/hotmixradio-90-64.mp3"/>
-		<bookmark name="Hotmix 2000" url="http://streamingads.hotmixradio.fm/hotmixradio-2k-64.mp3"/>
-		<bookmark name="Hotmix Baby" url="http://streamingads.hotmixradio.fm/hotmixradio-baby-64.mp3"/>
-		<bookmark name="Hotmix classic" url="https://streamingp.shoutcast.com/hotmixradio-classic-128.mp3"/>
-		<bookmark name="Hotmix cocktail" url="https://streamingp.shoutcast.com/hotmixradio-cocktail-128.mp3"/>
-		<bookmark name="Hotmix Dance" url="http://streamingads.hotmixradio.fm/hotmixradio-dance-64.mp3"/>
-		<bookmark name="Hotmix Fiesta" url="https://streamingp.shoutcast.com/hotmixradio-fiesta-128.mp3"/>
-		<bookmark name="Hotmix Frenchy" url="http://streamingads.hotmixradio.fm/hotmixradio-frenchy-64.mp3"/>
-		<bookmark name="Hotmix Funky" url="http://streamingads.hotmixradio.fm/hotmixradio-funky-64.mp3"/>
-		<bookmark name="Hotmix Golds" url="http://streamingads.hotmixradio.fm/hotmixradio-golds-64.mp3"/>
-		<bookmark name="Hotmix Hip-Hop" url="http://streamingads.hotmixradio.fm/hotmixradio-hiphop-64.mp3"/>
-		<bookmark name="Hotmix Hit" url="https://streamingp.shoutcast.com/hotmixradio-hits-128.mp3"/>
-		<bookmark name="Hotmix Info" url="https://streamingp.shoutcast.com/hotmixradio-infos-128.mp3"/>
-		<bookmark name="Hotmix Japan" url="http://streamingads.hotmixradio.fm/hotmixradio-japan-128.mp3"/>
-		<bookmark name="Hotmix Lounge" url="http://streaming.hotmix-radio.net:8000/hotmixradio-lounge-128.mp3"/>
-		<bookmark name="Hotmix Latino" url="https://streamingp.shoutcast.com/hotmixradio-latino-128.mp3"/>
-		<bookmark name="Hotmix Love" url="https://streamingp.shoutcast.com/hotmixradio-love-128.mp3"/>
-		<bookmark name="Hotmix New" url="http://streamingads.hotmixradio.fm/hotmixradio-new-64.mp3"/>
-		<bookmark name="Hotmix Noel" url="https://streamingp.shoutcast.com/hotmixradio-noel-128.mp3"/>
-		<bookmark name="Hotmix platinum" url="https://streamingp.shoutcast.com/hotmixradio-platinium-128.mp3"/>
-		<bookmark name="Hotmix Rock" url="http://streamingads.hotmixradio.fm/hotmixradio-rock-64.mp3"/>
-		<bookmark name="Hotmix Sport" url="https://streamingp.shoutcast.com/hotmixradio-sport-128.mp3"/>
-		<bookmark name="Hotmix Sunny" url="http://streamingads.hotmixradio.fm/hotmixradio-sunny-64.mp3"/>
-		<bookmark name="Hotmix Zen" url="https://streamingp.shoutcast.com/hotmixradio-zen-128.mp3"/>
+		<bookmark name="Hotmix 80" url="https://streaming.hotmixradio.fr/hotmix-80s-fr-mp3"/>
+		<bookmark name="Hotmix 90" url="https://streaming.hotmixradio.fr/hotmix-90s-fr-mp3"/>
+		<bookmark name="Hotmix 2000" url="https://streaming.hotmixradio.fr/hotmix-2000s-fr-mp3"/>
+		<bookmark name="Hotmix 80" url="https://streaming.hotmixradio.fr/hotmix-2010-en-mp3"/>
+		<bookmark name="Hotmix Acoustic Chill" url="https://streaming.hotmixradio.fr/hotmix-acoustic-en-mp3"/>
+		<bookmark name="Hotmix Afo Beats" url="https://streaming.hotmixradio.fr/hotmix-afro-en-mp3"/>
+		<bookmark name="Hotmix Baby" url="https://streaming.hotmixradio.fr/hotmix-baby-fr-mp3"/>
+		<bookmark name="Hotmix Balearic Vibes" url="https://streaming.hotmixradio.fr/hotmix-balearic_vibes-en-mp3"/>
+		<bookmark name="Hotmix BBQ" url="https://streaming.hotmixradio.fr/hotmix-bbq-en-mp3"/>
+		<bookmark name="Hotmix Blues" url="https://streaming.hotmixradio.fr/hotmix-blues-en-mp3"/>
+		<bookmark name="Hotmix China" url="https://streaming.hotmixradio.fr/hotmix-china-en-mp3"/>
+		<bookmark name="Hotmix Christmas" url="https://streaming.hotmixradio.fr/hotmix-christmas-en-mp3"/>
+		<bookmark name="Hotmix Classic House" url="https://streaming.hotmixradio.fr/hotmix-classic-house-en-mp3"/>
+		<bookmark name="Hotmix Classic Rap" url="https://streaming.hotmixradio.fr/hotmix-rap_us-en-mp3"/>
+		<bookmark name="Hotmix Classic Soul" url="https://streaming.hotmixradio.fr/hotmix-classic_soul-en-mp3"/>
+		<bookmark name="Hotmix Classical" url="https://streaming.hotmixradio.fr/hotmix-classical-en-mp3"/>
+		<bookmark name="Hotmix Cocktail" url="https://streaming.hotmixradio.fr/hotmix-cocktail_trendy-en-mp3"/>
+		<bookmark name="Hotmix Cocktail Groove" url="https://streaming.hotmixradio.fr/hotmix-cocktail_groove-en-mp3"/>
+		<bookmark name="Hotmix Cocktail Jazz" url="https://streaming.hotmixradio.fr/hotmix-cocktail_jazz-en-mp3"/>
+		<bookmark name="Hotmix Country Hits" url="https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3"/>
+		<bookmark name="Hotmix Dance" url="https://streaming.hotmixradio.fr/hotmix-dance-fr-mp3"/>
+		<bookmark name="Hotmix Deep House" url="https://streaming.hotmixradio.fr/hotmix-deep_in-ibz-en-mp3"/>
+		<bookmark name="Hotmix Dinner Groove" url="https://streaming.hotmixradio.fr/hotmix-dinner_groove-en-mp3"/>
+		<bookmark name="Hotmix Disco Fever" url="https://streaming.hotmixradio.fr/hotmix-disco_fever-en-mp3"/>
+		<bookmark name="Hotmix Electro Dance" url="https://streaming.hotmixradio.fr/hotmix-electro_dance-en-mp3"/>
+		<bookmark name="Hotmix Focus" url="https://streaming.hotmixradio.fr/hotmix-working-en-mp3"/>
+		
+		<bookmark name="Hotmix Frenchy" url="https://streaming.hotmixradio.fr/hotmix-frenchy-fr-mp3"/>
+		<bookmark name="Hotmix Funk" url="https://streaming.hotmixradio.fr/hotmix-funk-en-mp3"/>
+		<bookmark name="Hotmix Gaming" url="https://streaming.hotmixradio.fr/hotmix-gaming-en-mp3"/>
+		<bookmark name="Hotmix Gold 60s70s" url="https://streaming.hotmixradio.fr/hotmix-gold-fr-mp3"/>
+		<bookmark name="Hotmix Greece" url="https://streaming.hotmixradio.fr/hotmix-greece-en-mp3"/>
+		<bookmark name="Hotmix Happy" url="https://streaming.hotmixradio.fr/hotmix-happy-en-mp3"/>
+		<bookmark name="Hotmix Hard Rock" url="https://streaming.hotmixradio.fr/hotmix-hard_rock-en-mp3"/>
+		<bookmark name="Hotmix Hip-Hop" url="hhttps://streaming.hotmixradio.fr/hotmix-hiphop-fr-mp3"/>
+		<bookmark name="Hotmix Hits" url="https://streaming.hotmixradio.fr/hotmix-hits-fr-mp3"/>
+		<bookmark name="Hotmix India" url="https://streaming.hotmixradio.fr/hotmix-india-en-mp3"/>
+		<bookmark name="Hotmix Indie" url="https://streaming.hotmixradio.fr/hotmix-indie-en-mp3"/>
+		<bookmark name="Hotmix Italia" url="https://streaming.hotmixradio.fr/hotmix-italia-en-mp3"/>
+		<bookmark name="Hotmix Japan" url="https://streaming.hotmixradio.fr/hotmix-japan-en-mp3"/>
+		<bookmark name="Hotmix Jazz" url="https://streaming.hotmixradio.fr/hotmix-dinner_jazz-en-mp3"/>
+		<bookmark name="Hotmix K-Pop" url="https://streaming.hotmixradio.fr/hotmix-k-pop-en-mp3"/>
+		<bookmark name="Hotmix Latino" url="https://streaming.hotmixradio.fr/hotmix-latino-en-mp3"/>
+		<bookmark name="Hotmix LoFi" url="https://streaming.hotmixradio.fr/hotmix-lo-fi-en-mp3"/>
+		<bookmark name="Hotmix Lounge" url="https://streaming.hotmixradio.fr/hotmix-lounge-en-mp3"/>
+		<bookmark name="Hotmix Love" url="https://streaming.hotmixradio.fr/hotmix-love-fr-mp3"/>
+		<bookmark name="Hotmix Medina" url="https://streaming.hotmixradio.fr/hotmix-medina-en-mp3"/>
+		<bookmark name="Hotmix Metal" url="https://streaming.hotmixradio.fr/hotmix-metal-en-mp3"/>
+		<bookmark name="Hotmix Motown" url="https://streaming.hotmixradio.fr/hotmix-motown-en-mp3"/>
+		<bookmark name="Hotmix Movies" url="https://streaming.hotmixradio.fr/hotmix-movies-en-mp3"/>
+		<bookmark name="Hotmix New" url="https://streaming.hotmixradio.fr/hotmix-new-fr-mp3"/>
+		<bookmark name="Hotmix Nu Disco" url="https://streaming.hotmixradio.fr/hotmix-nu_disco-en-mp3"/>
+		<bookmark name="Hotmix Ocean" url="https://streaming.hotmixradio.fr/hotmix-ocean-en-mp3"/>
+		<bookmark name="Hotmix On the road" url="https://streaming.hotmixradio.fr/hotmix-on_the_road-en-mp3"/>
+		<bookmark name="Hotmix Piano Bar" url="https://streaming.hotmixradio.fr/hotmix-piano_bar-en-mp3"/>
+		<bookmark name="Hotmix Platinum" url="https://streaming.hotmixradio.fr/hotmix-platinum-fr-mp3"/>
+		<bookmark name="Hotmix Pop Rock" url="https://streaming.hotmixradio.fr/hotmix-pop_rock-fr-mp3"/>
+		<bookmark name="Hotmix Reggae" url="https://streaming.hotmixradio.fr/hotmix-reggae-en-mp3"/>
+		<bookmark name="Hotmix Rnb" url="https://streaming.hotmixradio.fr/hotmix-rnb-en-mp3"/>
+		<bookmark name="Hotmix Rock" url="https://streaming.hotmixradio.fr/hotmix-rock-en-mp3"/>
+		<bookmark name="Hotmix Salsa" url="https://streaming.hotmixradio.fr/hotmix-salsa-en-mp3"/>
+		<bookmark name="Hotmix Spain" url="https://streaming.hotmixradio.fr/hotmix-spain-en-mp3"/>
+		<bookmark name="Hotmix Sport Hits" url="https://streaming.hotmixradio.fr/hotmix-sport-en-mp3"/>
+		<bookmark name="Hotmix Sports Work Out" url="https://streaming.hotmixradio.fr/hotmix-sport_plus-en-mp3"/>
+		<bookmark name="Hotmix Sunny" url="https://streaming.hotmixradio.fr/hotmix-sunny-en-mp3"/>
+		<bookmark name="Hotmix Tic Toc" url="https://streaming.hotmixradio.fr/hotmix-tic_toc-en-mp3"/>
+		<bookmark name="Hotmix Zen" url="https://streaming.hotmixradio.fr/hotmix-zen-en-mp3"/>
 	</group>
 
 	<group name="FG + Espace + Prysm">
@@ -183,7 +226,7 @@
 		<bookmark name="Ouï Bring the noise" url="https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3"/>
 		<bookmark name="Ouï Collector" url="http://ouifm2.ice.infomaniak.ch/ouifm3.mp3"/>
 		<bookmark name="Ouï Classic rock" url="https://ouifm3.ice.infomaniak.ch/ouifm3.mp3"/>
-		<bookmark name="Ouï Generation Woodstock" url="	https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3"/>
+		<bookmark name="Ouï Generation Woodstock" url="https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3"/>
 		<bookmark name="Ouï Garage rock" url="http://ouifmgaragerock.ice.infomaniak.ch/ouifmgaragerock-64.aac"/>
 		<bookmark name="Ouï Girls rock" url="https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.aac"/>
 		<bookmark name="Ouï Indépendant" url="http://ouifm2.ice.infomaniak.ch/ouifm5.mp3"/>
@@ -198,18 +241,16 @@
 		<bookmark name="Ouï Slows rock" url="https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3"/>
 		<bookmark name="Ouï Summertime" url="https://ouifmsummertime.ice.infomaniak.ch/ouifmsummertime.mp3"/>
 		<bookmark name="Ouï Top week" url="https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3"/>
-		<bookmark name="Ouï Woodstock" url="https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3"/>
 	</group>
 
 	<group name="Jazz">
-		<bookmark name="Jazz radio nationale" url="http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"/>
+		<bookmark name="Jazz radio nationale" url="https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac"/>
 		<bookmark name="Jazz Afro" url="http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3"/>
 		<bookmark name="Jazz Black Music" url="http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3"/>
 		<bookmark name="Jazz Blues" url="http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3"/>
 		<bookmark name="Jazz Brazil" url="http://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3"/>
 		<bookmark name="Jazz Christmas Jazz" url="http://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3"/>
 		<bookmark name="Jazz Classic Jazz" url="http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3"/>
-		<bookmark name="Jazz Confluence" url="http://jzr-com-01.ice.infomaniak.ch/jzr-com-01.mp3"/>
 		<bookmark name="Jazz Contemporary Jazz" url="http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3"/>
 		<bookmark name="Jazz Electro Swing" url="http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3"/>
 		<bookmark name="Jazzy French" url="http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3"/>
@@ -219,6 +260,7 @@
 		<bookmark name="Jazz Groove" url="http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3"/>
 		<bookmark name="Jazz Groov'Up" url="http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3"/>
 		<bookmark name="Jazz Happy Hour" url="http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3"/>
+		<bookmark name="Jazz Ibrahim Maalouf" url="https://ibrahimmaaloufradiobyjazzradio.ice.infomaniak.ch/i-maalouf-radio-by-jazz-radio.aac"/>
 		<bookmark name="Jazz Jazz + Cinema" url="http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3"/>
 		<bookmark name="Jazz Jazz + Classique" url="http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3"/>
 		<bookmark name="Jazz Jazzy French" url="http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3"/>
@@ -308,7 +350,7 @@
 		<bookmark name="Nostalgie USA 80" url="http://cdn.nrjaudio.fm/adwz1/fr/56621/mp3_128.mp3?origine=fluxradios"/>
 		</group>
 
-	<group name="RFM + Voltage + Virgin">
+	<group name="RFM + Voltage + Europe 2">
 		<bookmark name="RFM" url="https://ais-live-hls.cloud-services.paris/rfm.aac/playlist.m3u8"/>
 		<bookmark name="RFM 70's" url="https://ais-live.cloud-services.paris:8443/rfm-wr16.aac"/>
 		<bookmark name="RFM 80" url="https://ais-live.cloud-services.paris:8443/rfm-wr4.aac"/>
@@ -336,15 +378,23 @@
 		<bookmark name="Voltage en Francais" url="https://voltageenfrancais.ice.infomaniak.ch/voltageenfrancais-128.mp3"/>
 		<bookmark name="Voltage club" url="http://voltageclub.ice.infomaniak.ch/voltageclub-128.mp3"/>
 		<bookmark name="Voltage Love" url="http://voltagelove.ice.infomaniak.ch/voltagelove-128.mp3"/>
-		<bookmark name="Virgin Radio" url="http://ais-live.cloud-services.paris:8000/virgin.mp3"/>
-		<bookmark name="Virgin la nouvelle scène" url="https://ais-live.cloud-services.paris:8443/vr-wr8.aac"/>
-		<bookmark name="Virgin by Perrier" url="https://ais-live.cloud-services.paris:8443/vr-wr7.aac"/>
-		<bookmark name="Virgin Classics" url="https://ais-live.cloud-services.paris:8443/vr-wr2.aac"/>
-		<bookmark name="Virgin Electro Shock" url="https://ais-live.cloud-services.paris:8443/vr-wr3.aac"/>
-		<bookmark name="Virgin Hit" url="https://ais-live.cloud-services.paris:8443/vr-wr4.aac"/>
-		<bookmark name="Virgin New" url="https://ais-live.cloud-services.paris:8443/vr-wr1.aac"/>
-		<bookmark name="Virgin Rock" url="https://ais-live.cloud-services.paris:8443/vr-wr5.aac"/>
-		<bookmark name="Virgin Tonic" url="https://ais-live.cloud-services.paris:8443/vr-wr6.aac"/>
+		<bookmark name="Europe 2" url="http://europe2.lmn.fm/europe2.mp3"/>
+		<bookmark name="Europe 2 - 100% Français" url="https://europe2.lmn.fm/vr-wr9.mp3"/>
+		<bookmark name="Europe 2 - 90s" url="https://europe2.lmn.fm/vr-wr12.mp3"/>
+		<bookmark name="Europe 2 Acoustic" url="https://europe2.lmn.fm/vr-wr3.mp3"/>
+		<bookmark name="Europe 2 Cardio" url="https://europe2.lmn.fm/vr-wr11.mp3"/>
+		<bookmark name="Europe 2 Classics" url="http://europe2.lmn.fm/vr-wr2.mp3"/>
+		<bookmark name="Europe 2 Friday Rock" url="http://europe2.lmn.fm/vr-wr5.mp3"/>
+		<bookmark name="Europe 2 Girl Power" url="https://europe2.lmn.fm/vr-wr14.mp3"/>
+		<bookmark name="Europe 2 Hits" url="http://europe2.lmn.fm/vr-wr4.mp3"/>			
+		<bookmark name="Europe 2 Live " url="https://europe2.lmn.fm/vr-wr7.mp3"/>
+		<bookmark name="Europe 2 Millenium" url="https://europe2.lmn.fm/vr-wr13.mp3"/>
+		<bookmark name="Europe 2 Mix" url="https://europe2.lmn.fm/vr-wr1.mp3"/>
+		<bookmark name="Europe 2 New" url="https://europe2.lmn.fm/vr-wr11.mp3"/>
+		<bookmark name="Europe 2 Classics" url="http://europe2.lmn.fm/vr-wr2.mp3"/>
+		<bookmark name="Europe 2 Nouvelle Scène" url="http://europe2.lmn.fm/vr-wr8.mp3"/>
+		<bookmark name="Europe 2 Pop Rock" url="https://europe2.lmn.fm/vr-wr15.mp3"/>
+		<bookmark name="Europe 2 Slow" url="http://europe2.lmn.fm/vr-wr10.mp3"/>
 	</group>
 
 	<group name="Chante France + M Radio">
@@ -453,24 +503,27 @@
 	</group>
 
 	<group name="Rire et chansons">
-		<bookmark name="RC a la maison" url="https://scdn.nrjaudio.fm/adwz1/fr/57171/aac_64.mp3"/>
-		<bookmark name="RC Blagues" url="http://cdn.nrjaudio.fm/adwz1/fr/30411/mp3_128.mp3"/>
-		<bookmark name="RC Canulars" url="http://cdn.nrjaudio.fm/adwz1/fr/30413/mp3_128.mp3"/>
-		<bookmark name="RC Chansons Droles" url="http://cdn.nrjaudio.fm/adwz1/fr/56786/mp3_128.mp3?origine=fluxradios"/>
-		<bookmark name="RC Collectors" url="http://cdn.nrjaudio.fm/adwz1/fr/30421/mp3_128.mp3"/>
-		<bookmark name="RC Duos" url="http://cdn.nrjaudio.fm/adwz1/fr/55601/mp3_128.mp3"/>
-		<bookmark name="RC Francophonie" url="https://scdn.nrjaudio.fm/adwz1/fr/57107/aac_64.mp3"/>
-		<bookmark name="RC Futurs Talents" url="http://cdn.nrjaudio.fm/adwz1/fr/55818/mp3_128.mp3"/>
+		<bookmark name="RC" url="https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3"/>
+		<bookmark name="RC Blagues" url="https://scdn.nrjaudio.fm/adwz1/fr/30411/mp3_128.mp3"/>
+		<bookmark name="RC Canulars" url="https://scdn.nrjaudio.fm/adwz1/fr/30413/mp3_128.mp3"/>
+		<bookmark name="RC Collectors" url="https://scdn.nrjaudio.fm/adwz1/fr/30421/mp3_128.mp3"/>
+		<bookmark name="RC Droles" url="https://scdn.nrjaudio.fm/adwz1/fr/56786/mp3_128.mp3"/>
+		<bookmark name="RC Duos" url="https://scdn.nrjaudio.fm/adwz1/fr/55601/mp3_128.mp3"/>
+		<bookmark name="RC Francophonie" url="https://scdn.nrjaudio.fm/adwz1/fr/57107/mp3_128.mp3"/>
+		<bookmark name="RC Humours du sud" url="https://scdn.nrjaudio.fm/adwz1/fr/55514/mp3_128.mp3?"/>
+		<bookmark name="RC Nouveautés" url="https://scdn.nrjaudio.fm/adwz1/fr/55818/mp3_128.mp3"/>
 		<bookmark name="RC Heros" url="https://scdn.nrjaudio.fm/adwz1/fr/57188/aac_64.mp3"/>
 		<bookmark name="RC Hommage à coluche" url="https://scdn.nrjaudio.fm/audio1/fr/55670/aac_64.mp3"/>
-		<bookmark name="RC Humour du Sud" url="http://cdn.nrjaudio.fm/adwz1/fr/55514/mp3_128.mp3"/>
 		<bookmark name="RC Live" url="http://cdn.nrjaudio.fm/adwz1/fr/30409/mp3_128.mp3"/>
-		<bookmark name="RC Nouvelle Generation" url="http://cdn.nrjaudio.fm/adwz1/fr/30405/mp3_128.mp3"/>
-		<bookmark name="RC One Woman Show" url="http://cdn.nrjaudio.fm/adwz1/fr/55576/mp3_128.mp3"/>
-		<bookmark name="RC Open du Rire" url="http://cdn.nrjaudio.fm/adwz1/fr/30443/mp3_128.mp3"/>
-		<bookmark name="RC Semoun" url="https://scdn.nrjaudio.fm/audio1/fr/30427/aac_64.mp3"/>
-		<bookmark name="RC Sketches" url="http://cdn.nrjaudio.fm/adwz1/fr/30407/mp3_128.mp3"/>
-		<bookmark name="RC Stand Up" url="http://cdn.nrjaudio.fm/adwz1/fr/30417/mp3_128.mp3"/>
+		<bookmark name="RC Nouvelle Generation" url="https://scdn.nrjaudio.fm/adwz1/fr/30405/mp3_128.mp3"/>
+		<bookmark name="RC One Woman Show" url="https://scdn.nrjaudio.fm/adwz1/fr/55576/mp3_128.mp3"/>
+		<bookmark name="RC Open du Rire" url="https://scdn.nrjaudio.fm/adwz1/fr/30443/mp3_128.mp3"/>
+		<bookmark name="RC Rock Rire" url="https://scdn.nrjaudio.fm/adwz1/fr/57970/mp3_128.mp3"/>
+		<bookmark name="RC Semoun" url="https://scdn.nrjaudio.fm/audio1/fr/30427/mp3_128.mp3"/>
+		<bookmark name="RC Sketches" url=" https://scdn.nrjaudio.fm/adwz1/fr/30407/mp3_128.mp3"/>
+		<bookmark name="RC Stand Up" url="https://scdn.nrjaudio.fm/adwz1/fr/30417/mp3_128.mp3"/>
+		<bookmark name="RC Vos stars" url="https://scdn.nrjaudio.fm/adwz1/fr/58755/mp3_128.mp3"/>
+		<bookmark name="RC 100% live" url="https://scdn.nrjaudio.fm/adwz1/fr/30409/mp3_128.mp3"/>
 		</group>
 
 	<group name="NRJ 1">
@@ -726,7 +779,7 @@
 		<bookmark name="Le Mouv' Kids'n family" url="https://icecast.radiofrance.fr/mouvkidsnfamily-midfi.mp3"/>
 	</group>
 
-	<group name="Generation + Radio Star">
+	<group name="Generation">
 		<bookmark name="Generation" url="http://generationfm.ice.infomaniak.ch/generationfm-high.mp3"/>
 		<bookmark name="Generation rap FR gold" url="http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3"/>
 		<bookmark name="Generation 101.5 Lyon" url="http://radiosun.ice.infomaniak.ch/radiosun-high.mp3"/>
@@ -754,12 +807,10 @@
 		<bookmark name="Generation Afro BEAT" url="http://generations-wr001.ice.infomaniak.ch/generations-wr001.mp3"/>
 		<bookmark name="Generation Jul" url="http://generations-jul.ice.infomaniak.ch/generations-jul.mp3"/>
 		<bookmark name="Generation hype" url="http://generations-wr002.ice.infomaniak.ch/generations-wr002.mp3"/>
-		<bookmark name="Radio Star Provence" url="https://www.radioking.com/play/radio-star/49346"/>
-		<bookmark name="Radio Star Hits" url="http://listen.radioking.com/radio/11598/stream/49322"/>
-		<bookmark name="Radio Star Soprano" url="https://www.radioking.com/play/radio-star-dance/49340"/>
+
 	</group>
 
-	<group name="Flac International - son HQ">
+	<group name="Flac International">
 		<bookmark name="Fréquence 3" url="https://frequence3.net-radio.fr/frequence3.flac"/>
 		<bookmark name="Fréquence 3 Urban" url="https://frequence3.net-radio.fr/frequence3urban.flac"/>
 		<bookmark name="Fréquence 3 Gold" url="https://frequence3.net-radio.fr/frequence3gold.flac"/>
@@ -796,7 +847,6 @@
 		<bookmark name="Naim " url="http://mscp3.live-streams.nl:8360/flac.flac"/>
 		<bookmark name="Naim classical" url="http://mscp3.live-streams.nl:8250/class-flac.flac"/>
 		<bookmark name="Naim Jazz" url="http://mscp3.live-streams.nl:8340/jazz-flac.flac"/>	
-		<bookmark name="Radio 2.0" url="http://vps.radioduepuntozero.it:8000/stream.ogg.m3u"/>
 		<bookmark name="Radio blues" url="https://streams.radiomast.io:80/radioblues-flac"/>
 		<bookmark name="Radio Kemonia" url="http://kemoniastreaming2.net:8060/stream"/>	
 		<bookmark name="Radio Paradise" url="http://stream.radioparadise.com/flac"/>
@@ -816,10 +866,13 @@
 		<bookmark name="Sing sing" url="http://stream.sing-sing-bis.org:8000/singsingFlac"/>
 		<bookmark name="Sputnik" url="http://radiosputnik.nl:8002/flac"/>		
 		<bookmark name="Sun radio" url="https://diffusion.lafrap.fr/sun.flac"/>		
-		<bookmark name="Super stéréo" url="http://198.204.228.202:8160/flac"/>
-		<bookmark name="Super stéréo 2" url="http://198.204.228.202:8157/flac"/>
-		<bookmark name="Super stéréo 3" url="http://198.204.228.202:8539/flac"/>
-		<bookmark name="Super stéréo 4" url="http://198.204.228.202:8030/flac"/>
+		<bookmark name="Super stéréo" url="http://icecast.centaury.cl:7570/SuperStereoHiRes1"/>
+		<bookmark name="Super stéréo 2" url="http://icecast.centaury.cl:7570/SuperStereoHiRes2"/>
+		<bookmark name="Super stéréo 3" url="http://icecast.centaury.cl:7570/SuperStereoHiRes3"/>
+		<bookmark name="Super stéréo 4" url="http://icecast.centaury.cl:7570/SuperStereoHiRes4"/>
+		<bookmark name="Super stéréo 5" url="http://icecast.centaury.cl:7570/SuperStereoHiRes5"/>
+		<bookmark name="Super stéréo 6" url="http://icecast.centaury.cl:7570/SuperStereoHiRes6"/>
+		<bookmark name="Super stéréo 7" url="http://icecast.centaury.cl:7570/SuperStereoHiRes7"/>
 		<bookmark name="The cheese" url="http://thecheese.ddns.net:8004/stream.m3u"/>
 		<bookmark name="World Electric Mix" url="http://stream.radioparadise.com/eclectic-flac"/>
 		<bookmark name="Xradionl" url="http://amp.cesnet.cz:8000/cro3.flac"/>
