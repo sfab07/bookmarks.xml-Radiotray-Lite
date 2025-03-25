@@ -1,14 +1,13 @@
-# bookmarks.xml axés sur les radios et webradios françaises. (plus de 600 !!!)
+# bookmarks.xml axés sur les radios et webradios françaises. (plusieurs centaines)
 
-Utiliser directement bookmarks.sh : il va se charger de transférer les bookmarks du site directement au bon endroit, sinon déplacer vous-mêmes bookmarks.xml dans le dossier : /home/.config/radiotray-lite/  
+Pour transférer automatiquement le fichier bookmarks.xml vers /home/.config/radiotray-lite/, utiliser le script bookmarks.sh.
 
 Ensuite recharger les signets.
 
-
 -----------------
-Afin de vérifier les liens mort j'utilise Xenu's Link Sleuth : http://home.snafu.de/tilman/xenulink.html après conversion avec URLlinks.sh (sous linux).
 
-Si vous souhaitez utiliser directement windows et vous passez de revenir sur linux, vous avez la possibilité d'installer ubuntu sous windows 10. Dans ce cas, lancer directement le terminal ubuntu à travers windows et faites  2 fois "cd .." puis "cd mnt/c/Users/Votre nom/Desktop" (bookmarks.xml doit-être sur votre bureau). Enfin, tapez "grep -o 'http*://[^"]*' bookmarks.xml>links.txt"
+Si vous souhaiter vérifier les liens mort, en premier lieu utiliser links.sh dans le même dossier que bookmarks.xml. Un fichier links.txt va être généré.
+Ensuite utiliser Xenu's Link Sleuth : http://home.snafu.de/tilman/xenulink.html (check url list) sur links.txt.
 
 Quand bien même, je vous recommande ces quelques sites afin d'alimenter vos favoris en fonction de vos préférences :
 
