@@ -17,7 +17,7 @@ http://fr.archive.ubuntu.com/ubuntu/pool/universe/liba/libappindicator/gir1.2-ap
 -----------------
 
 Si vous souhaiter vérifier les liens mort, en premier lieu utiliser links.sh dans le même dossier que bookmarks.xml. Un fichier links.txt va être généré.
-Ensuite utiliser Xenu's Link Sleuth : http://home.snafu.de/tilman/xenulink.html (check url list) sur links.txt.
+Ensuite utiliser Xenu's Link Sleuth : http://home.snafu.de/tilman/xenulink.html (check url list) sur links.txt à travers WineHQ.
 
 Quand bien même, je vous recommande ces quelques sites afin d'alimenter vos favoris en fonction de vos préférences :
 
