@@ -1,1 +1,1 @@
-grep -o 'http*://[^"]*' bookmarks.xml>links.txt
+grep -o '"\(https\?://[^"]*\)"' bookmarks.xml | sed s/\"//g > links.txt
