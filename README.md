@@ -6,6 +6,16 @@ Ensuite recharger les signets.
 
 -----------------
 
+Pour installer, radiotray-lite : 
+
+https://launchpadlibrarian.net/378726798/radiotray-lite_0.2.18-1~webupd8~bionic0_amd64.deb
+
+Probablement, vous serez confronté à un problème de dépendance :
+
+http://fr.archive.ubuntu.com/ubuntu/pool/universe/liba/libappindicator/gir1.2-appindicator3-0.1_12.10.1+20.10.20200706.1-0ubuntu6_amd64.deb
+
+-----------------
+
 Si vous souhaiter vérifier les liens mort, en premier lieu utiliser links.sh dans le même dossier que bookmarks.xml. Un fichier links.txt va être généré.
 Ensuite utiliser Xenu's Link Sleuth : http://home.snafu.de/tilman/xenulink.html (check url list) sur links.txt.
 
