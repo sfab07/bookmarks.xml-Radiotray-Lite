@@ -14,7 +14,7 @@ Probablement, vous serez confronté à un problème de dépendance :
 
 http://fr.archive.ubuntu.com/ubuntu/pool/universe/liba/libappindicator/gir1.2-appindicator3-0.1_12.10.1+20.10.20200706.1-0ubuntu6_amd64.deb
 
-L'avantage de radiotray-lite par rapport radiotray, c'est qu'il est justement réécrit en c++ pour être plus rapide :
+L'avantage de radiotray-lite par rapport à radiotray, c'est qu'il est justement réécrit en c++ pour être plus rapide :
 https://github.com/thekvs/radiotray-lite
 
 -----------------
